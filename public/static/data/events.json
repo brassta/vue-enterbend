@@ -1,0 +1,7122 @@
+[
+  {
+    "start": 1333294092396,
+    "end": 1333294092399,
+    "contactDate": 1334244492401,
+    "title": "Rođendan - Hoter Turist - Užice",
+    "confirmed": true,
+    "pk": 1,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1333812544244,
+    "end": 1333812544247,
+    "contactDate": 1334244544249,
+    "title": "Klub Castle - Ljubovija",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 2,
+    "explanation": null
+  },
+  {
+    "start": 1334417379299,
+    "end": 1334417379299,
+    "contactDate": 1334244579303,
+    "title": "Klub Castle - Ljubovija",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 3,
+    "explanation": null
+  },
+  {
+    "start": 1334503813659,
+    "end": 1334503813659,
+    "contactDate": 1334244613664,
+    "title": "Klub Fratelli - Bajina BaŠta",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 4,
+    "explanation": null
+  },
+  {
+    "start": 1334590386470,
+    "end": 1334590386470,
+    "contactDate": 1334244786474,
+    "title": "Svadba - Restoran Ivolaz - Užice",
+    "confirmed": true,
+    "pk": 5,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1334936023519,
+    "end": 1334936023519,
+    "contactDate": 1334244823525,
+    "title": "Proslava - Hotel Skrapež - Kosjerić",
+    "confirmed": true,
+    "pk": 6,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1335022469783,
+    "end": 1335022469783,
+    "contactDate": 1334244869787,
+    "title": "Svadba - Sala Volujac",
+    "confirmed": true,
+    "pk": 7,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1335454496228,
+    "end": 1335454496228,
+    "contactDate": 1334244896231,
+    "title": "Rođendan - Muzički klub - Požega",
+    "confirmed": true,
+    "pk": 8,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1335627320476,
+    "end": 1335627320476,
+    "contactDate": 1334244920480,
+    "title": "Svadba - Požega",
+    "confirmed": true,
+    "pk": 9,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1335713751819,
+    "end": 1335713751819,
+    "contactDate": 1334244951823,
+    "title": "Svadba - Hotel Zlatibor - Užice",
+    "confirmed": true,
+    "pk": 10,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1335800189758,
+    "end": 1335800189758,
+    "contactDate": 1334244989761,
+    "title": "Svadba - Restoran Ivolaz - Užice",
+    "confirmed": true,
+    "pk": 11,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1336837006310,
+    "end": 1336837006310,
+    "contactDate": 1334245006315,
+    "title": "Svadba - Užice",
+    "confirmed": true,
+    "pk": 12,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1336923459944,
+    "end": 1336923459944,
+    "contactDate": 1334245059947,
+    "title": "Svadba - Muzički klub - Požega",
+    "confirmed": true,
+    "pk": 13,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1337269093033,
+    "end": 1337355493033,
+    "contactDate": 1334245093037,
+    "title": "Svadba - Aranđelovac",
+    "confirmed": true,
+    "pk": 14,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1337528394675,
+    "end": 1337528394675,
+    "contactDate": 1334245194680,
+    "title": "Svadba - Sala Volujac",
+    "pk": 15,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1338046883614,
+    "end": 1338046883614,
+    "contactDate": 1334245283618,
+    "title": "Svadba - Restoran Izvor - Užice",
+    "confirmed": true,
+    "pk": 16,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1338133390344,
+    "end": 1338133390344,
+    "contactDate": 1334245390348,
+    "title": "Svadba - Hotel Turist - Užice",
+    "confirmed": true,
+    "pk": 17,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1338651815039,
+    "end": 1338651815039,
+    "contactDate": 1334245415043,
+    "title": "Svadba - Restoran Ivolaz - Užice",
+    "confirmed": true,
+    "pk": 18,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1338738323916,
+    "end": 1338738323916,
+    "contactDate": 1334245523920,
+    "title": "Svadba - Zlatiborska noć - Užice",
+    "confirmed": true,
+    "pk": 19,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1339256760348,
+    "end": 1339256760348,
+    "contactDate": 1334245560350,
+    "title": "Svadba - Sala Roja",
+    "confirmed": true,
+    "pk": 20,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1339343184452,
+    "end": 1339343184452,
+    "contactDate": 1334245584453,
+    "title": "Svadba - Muzički klub - Požega",
+    "confirmed": true,
+    "pk": 21,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1340466417646,
+    "end": 1340466417646,
+    "contactDate": 1334245617648,
+    "title": "Rođendan - Muzički klub - Požega",
+    "confirmed": true,
+    "pk": 22,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1342885659313,
+    "end": 1342885659313,
+    "contactDate": 1334245659314,
+    "title": "Svadba - Hotel Zlatibor - Užice",
+    "confirmed": true,
+    "pk": 23,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1347205727854,
+    "end": 1347205727854,
+    "contactDate": 1334245727854,
+    "confirmed": true,
+    "title": "Svadba - Restoran Ivolaz - Užice",
+    "pk": 25,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1350748152350,
+    "end": 1350748152350,
+    "contactDate": 1334245752352,
+    "title": "Svadba - Muzički klub - Požega",
+    "confirmed": true,
+    "pk": 26,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1336209784798,
+    "end": 1336209784798,
+    "contactDate": 1335432184799,
+    "title": "Klub - Castlle",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 27,
+    "explanation": null
+  },
+  {
+    "start": 1339493051188,
+    "end": 1339493051188,
+    "contactDate": 1335432251189,
+    "title": "Rodjendan - Dva cveta",
+    "confirmed": true,
+    "pk": 28,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1337419539435,
+    "end": 1337419539435,
+    "contactDate": 1335432339435,
+    "title": "Svadba - Restoran Plaža ",
+    "confirmed": true,
+    "pk": 29,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1341048837397,
+    "end": 1341048837397,
+    "contactDate": 1335432837397,
+    "confirmed": true,
+    "title": "Svadba - Beograd",
+    "pk": 30,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1344677797711,
+    "end": 1344677797711,
+    "contactDate": 1335432997712,
+    "title": "Svadba - Rubin Požega",
+    "confirmed": true,
+    "pk": 31,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1339145158835,
+    "end": 1339145158835,
+    "contactDate": 1335516358839,
+    "title": "Rođendan  Hotel Lučani",
+    "confirmed": true,
+    "pk": 32,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1344502062241,
+    "end": 1344502062241,
+    "contactDate": 1335516462245,
+    "confirmed": true,
+    "pk": 33,
+    "title": "Rođendan Sofija Tomanović",
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1337708963870,
+    "end": 1337708963872,
+    "contactDate": 1336067363873,
+    "confirmed": true,
+    "title": "Svecana akademija TS Radoje LJubicic - hotel Zlatibor",
+    "explanation": "Proslava povodom republickog takmicenja tekstilnih skola Srbije.",
+    "pk": 34,
+    "frontpage": null
+  },
+  {
+    "start": 1344084171198,
+    "end": 1344084171198,
+    "contactDate": 1336308171206,
+    "confirmed": true,
+    "title": "Svadba - Palić - Mala gostiona",
+    "pk": 35,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1349009610559,
+    "end": 1349009610559,
+    "contactDate": 1336308810565,
+    "confirmed": true,
+    "title": "Svadba - Užice",
+    "pk": 36,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1336663771240,
+    "end": 1336663771244,
+    "contactDate": 1336750171247,
+    "confirmed": true,
+    "title": "Klub Alangolo-Sirko rodjenje-proslava",
+    "pk": 37,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1346513491410,
+    "end": 1346513491410,
+    "contactDate": 1336750291417,
+    "confirmed": true,
+    "title": "Svadba - Rubin - Pozega",
+    "pk": 38,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1348355857612,
+    "end": 1348355857612,
+    "contactDate": 1337469457621,
+    "confirmed": true,
+    "title": "Hotel Zlatibor - svadba",
+    "pk": 39,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1341094401700,
+    "end": 1341094401700,
+    "contactDate": 1337552001705,
+    "confirmed": true,
+    "title": "Punoletstvo-Muzički klub Požega",
+    "pk": 40,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1350249147238,
+    "end": 1350249147238,
+    "contactDate": 1337634747242,
+    "title": "Svadba - Hotel Turist",
+    "pk": 41,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1344722538560,
+    "end": 1344722538560,
+    "contactDate": 1338242538569,
+    "title": "Svadba, Milovan i Marina, hotel Turist - Užice",
+    "pk": 42,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1344204252304,
+    "end": 1344204252304,
+    "contactDate": 1338242652312,
+    "title": "Rođendan, hotel Turust - Užice",
+    "pk": 43,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1345998899125,
+    "end": 1345998899125,
+    "contactDate": 1338482099134,
+    "title": "Svadba, Dejan i Jelena,hotel Zlatibor - Užice",
+    "pk": 44,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1347663569854,
+    "end": 1347663569854,
+    "contactDate": 1338764369864,
+    "title": "Svadba, porodica Marinković - Krupanj",
+    "pk": 45,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1344191611824,
+    "end": 1344191611824,
+    "contactDate": 1339698811833,
+    "title": "Svadba Grand Požega",
+    "pk": 46,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1347111589778,
+    "end": 1347111589778,
+    "contactDate": 1340285989781,
+    "title": "Svadba Ovčar banja - Dom",
+    "pk": 47,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1342094392021,
+    "end": 1342094392021,
+    "contactDate": 1340625592030,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Sirogojno, baŠta Sunce - Party",
+    "pk": 48,
+    "explanation": null
+  },
+  {
+    "start": 1343476894511,
+    "end": 1343476894511,
+    "contactDate": 1340625694503,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Castle - Ljubovija",
+    "pk": 49,
+    "explanation": null
+  },
+  {
+    "start": 1343908957431,
+    "end": 1343908957431,
+    "contactDate": 1340625757438,
+    "confirmed": true,
+    "title": "Rođendan, restoran Potkovica-Požega",
+    "pk": 50,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1343560759685,
+    "end": 1343560759685,
+    "contactDate": 1340795959695,
+    "confirmed": true,
+    "title": "Rodjendan, restoran Radnik-Pozega",
+    "pk": 51,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1350123189267,
+    "end": 1350123189267,
+    "contactDate": 1341137589276,
+    "confirmed": true,
+    "title": "Svadba, restoran Plaža Užice",
+    "pk": 52,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1342133284506,
+    "end": 1342219684506,
+    "contactDate": 1341269284510,
+    "frontpage": true,
+    "confirmed": true,
+    "title": "Drinska regata, motel Ljubovija",
+    "pk": 54,
+    "explanation": null
+  },
+  {
+    "start": 1347539389843,
+    "end": 1347539389843,
+    "contactDate": 1342096189848,
+    "confirmed": true,
+    "title": "Svadba - hotel Zlatibor",
+    "pk": 57,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1352554251663,
+    "end": 1352554251663,
+    "contactDate": 1342096251668,
+    "confirmed": true,
+    "title": "Svadba - Muzicki klub, Pozega",
+    "pk": 58,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1350566834345,
+    "end": 1350566834345,
+    "contactDate": 1342272434354,
+    "confirmed": true,
+    "explanation": "svadba, restoran Ivolaz, Uzice.",
+    "pk": 59,
+    "title": "Svadba-restoran Ivolaz, Uzice",
+    "frontpage": null
+  },
+  {
+    "start": 1343421618120,
+    "end": 1343421618120,
+    "contactDate": 1343076018127,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Castle - Ljubovija",
+    "pk": 60,
+    "explanation": null
+  },
+  {
+    "start": 1351327922014,
+    "end": 1351327922014,
+    "contactDate": 1343206322023,
+    "confirmed": true,
+    "title": "Svadba, Rubin - Požega",
+    "pk": 61,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1348937914374,
+    "end": 1348937914374,
+    "contactDate": 1343667514379,
+    "confirmed": true,
+    "title": "svadba, restoran Mali vikend, Beograd",
+    "pk": 62,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1349954518991,
+    "end": 1349954518991,
+    "contactDate": 1344252118997,
+    "confirmed": true,
+    "title": "Svadba - hotel Zlatibor, Užice",
+    "pk": 63,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1350599437908,
+    "end": 1350599437908,
+    "contactDate": 1344551437918,
+    "confirmed": true,
+    "title": "Svecani rucak - Zlakusa",
+    "pk": 64,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1352034287826,
+    "end": 1352034287826,
+    "contactDate": 1344686687836,
+    "title": "Svadba Ivolaz Uzice",
+    "pk": 65,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1353587849023,
+    "end": 1353587849023,
+    "contactDate": 1345203449032,
+    "confirmed": true,
+    "title": "Rođendan, muzički klub - Požega",
+    "pk": 66,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1368267215753,
+    "end": 1368267215753,
+    "contactDate": 1345371215761,
+    "confirmed": true,
+    "title": "Svadba - Restoran Ivolaz - Užice",
+    "pk": 67,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1347652405335,
+    "end": 1347652405335,
+    "contactDate": 1345665205345,
+    "confirmed": true,
+    "title": "Prvi rodjendan,      Muzicki klub, Pozega",
+    "pk": 68,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1368867716167,
+    "end": 1368867716167,
+    "contactDate": 1345712516177,
+    "title": "Svadba,Grand sala, Pozega",
+    "explanation": null,
+    "pk": 69,
+    "confirmed": true,
+    "frontpage": null
+  },
+  {
+    "start": 1352664946131,
+    "end": 1352664946131,
+    "contactDate": 1346094946135,
+    "confirmed": true,
+    "title": "Svadba Ivolaz - Užice",
+    "pk": 70,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1346312983614,
+    "end": 1346312983614,
+    "contactDate": 1346226583624,
+    "confirmed": true,
+    "title": "Rođendan, Radnik - Požega",
+    "pk": 71,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1349337098293,
+    "end": 1349337098293,
+    "contactDate": 1347868298301,
+    "title": "Rođendan, Muzički klub - Požega",
+    "pk": 72,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1350847644986,
+    "end": 1350847644986,
+    "contactDate": 1346700444988,
+    "confirmed": true,
+    "title": "Svadba - Užice, sala Roja",
+    "pk": 74,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1348233548559,
+    "end": 1348233548559,
+    "contactDate": 1347023948568,
+    "confirmed": true,
+    "title": "Rodjendan, restoran Plaza - Uzice",
+    "pk": 75,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1348321683719,
+    "end": 1348321683719,
+    "contactDate": 1347025683722,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Castle - Ljubovija",
+    "pk": 76,
+    "explanation": null
+  },
+  {
+    "start": 1353758708887,
+    "end": 1353758708887,
+    "contactDate": 1347188708896,
+    "confirmed": true,
+    "title": "Rođendan, hotel - Požega",
+    "pk": 77,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1348512976479,
+    "end": 1348512976479,
+    "contactDate": 1347821776488,
+    "confirmed": true,
+    "title": "Rođendan, restoran Plaža, Užice",
+    "pk": 79,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1351451603869,
+    "end": 1351451603869,
+    "contactDate": 1348164803877,
+    "confirmed": true,
+    "title": "Svadba, hotel Park - Ivanjica",
+    "pk": 84,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1358018603710,
+    "end": 1358018603710,
+    "contactDate": 1348597403716,
+    "confirmed": true,
+    "title": "Rodjendan, restoran Baceta, Uzice",
+    "pk": 85,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1354829300842,
+    "end": 1354829300842,
+    "contactDate": 1349296100845,
+    "confirmed": true,
+    "title": "Rođendan Lena, Muzički klub Požega",
+    "pk": 86,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1349775319612,
+    "end": 1349775319612,
+    "contactDate": 1349429719620,
+    "confirmed": true,
+    "frontpage": false,
+    "title": "Proslava Dana grada, restoran Alexandar-Užice",
+    "pk": 87,
+    "explanation": null
+  },
+  {
+    "start": 1369516055321,
+    "end": 1369516055321,
+    "contactDate": 1349471255330,
+    "confirmed": true,
+    "title": "Svadba, svečana sala Mladost-Čajetina",
+    "pk": 88,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1352993217719,
+    "end": 1352993217719,
+    "contactDate": 1349706417725,
+    "confirmed": true,
+    "title": "Rođendan David, hotel Turist - Užice",
+    "pk": 89,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1351725866238,
+    "end": 1351725866238,
+    "contactDate": 1350599066241,
+    "confirmed": true,
+    "title": "Svadba, Svečana sala Roja - Užice",
+    "pk": 90,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1351072231177,
+    "end": 1351072231177,
+    "contactDate": 1350726631186,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Etno selo VraneŠci - Svečana vecera",
+    "pk": 91,
+    "explanation": null
+  },
+  {
+    "start": 1351552038996,
+    "end": 1351552038998,
+    "contactDate": 1351552039001,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Proslava  - Kulturni centar Užice",
+    "pk": 93,
+    "explanation": null
+  },
+  {
+    "start": 1353802369601,
+    "end": 1353802369601,
+    "contactDate": 1351987969610,
+    "confirmed": true,
+    "title": "Svadba, Sala Kod Rasa, Volujac",
+    "pk": 94,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1354967364498,
+    "end": 1354967364498,
+    "contactDate": 1352720964507,
+    "confirmed": true,
+    "title": "Svadba, hotel Zlatibor",
+    "pk": 95,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1356951518158,
+    "end": 1356951518158,
+    "contactDate": 1353063518167,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hotel Zlatiborska noc ",
+    "pk": 96,
+    "explanation": null
+  },
+  {
+    "start": 1357038155480,
+    "end": 1357038155480,
+    "contactDate": 1353063755487,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hotel Zlatiborska noc",
+    "pk": 97,
+    "explanation": null
+  },
+  {
+    "start": 1356220624268,
+    "end": 1356220624268,
+    "contactDate": 1353110224277,
+    "confirmed": true,
+    "title": "Rodjendan, hotel Zlatibor",
+    "pk": 98,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1331393545766,
+    "end": 1331393545772,
+    "contactDate": 1353425545775,
+    "confirmed": true,
+    "title": "Rođendan, hotel Zlatibor",
+    "pk": 99,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1356719428923,
+    "end": 1356719428923,
+    "contactDate": 1353522628927,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Proslava, Tehnička Škola Radoje Ljubičić",
+    "pk": 100,
+    "explanation": null
+  },
+  {
+    "start": 1370192519764,
+    "end": 1370192519764,
+    "contactDate": 1353693719773,
+    "confirmed": true,
+    "title": "Svadba, Hotel Zlatibor - Uzice",
+    "pk": 103,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1363389770708,
+    "end": 1363389770708,
+    "contactDate": 1353885770714,
+    "confirmed": true,
+    "title": "Svadba, Srpski dvor - Beograd",
+    "pk": 104,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1362871619479,
+    "end": 1362871619479,
+    "contactDate": 1353886019484,
+    "confirmed": true,
+    "title": "Rođendan, hotel Zlatibor - Užice",
+    "pk": 105,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1356737402277,
+    "end": 1356737402277,
+    "contactDate": 1353886202280,
+    "confirmed": true,
+    "title": "Rođendan, Progres - Arilje",
+    "pk": 106,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1355611653967,
+    "end": 1355611653967,
+    "contactDate": 1354142853970,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Alangolo - Požega",
+    "pk": 107,
+    "explanation": null
+  },
+  {
+    "start": 1356216562474,
+    "end": 1356216562474,
+    "contactDate": 1354142962477,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Alangolo - Požega",
+    "pk": 108,
+    "explanation": null
+  },
+  {
+    "start": 1357339860588,
+    "end": 1357426260588,
+    "contactDate": 1354143060593,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Castle - Ljubovija",
+    "pk": 109,
+    "explanation": null
+  },
+  {
+    "start": 1357599196108,
+    "end": 1357599196108,
+    "contactDate": 1354143196112,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Castle - Ljubovija",
+    "pk": 110,
+    "explanation": null
+  },
+  {
+    "start": 1359304573063,
+    "end": 1359304573063,
+    "contactDate": 1354552573072,
+    "confirmed": true,
+    "title": "Rođendan, restoran Ä†ira - Užice",
+    "pk": 111,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1361127267965,
+    "end": 1361127267965,
+    "contactDate": 1354733667973,
+    "title": "Svadba, svečana sala Roja - Užice",
+    "pk": 112,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1374956945255,
+    "end": 1374956945255,
+    "contactDate": 1356211745258,
+    "title": "Svadba, Muzicki klub, Pozega",
+    "confirmed": true,
+    "explanation": "Svadba",
+    "pk": 113,
+    "frontpage": null
+  },
+  {
+    "start": 1360531975625,
+    "end": 1360531975625,
+    "contactDate": 1356211975629,
+    "title": "Rodjendan, Lucani, hotel Lucani",
+    "confirmed": true,
+    "explanation": "Rodjendan",
+    "pk": 114,
+    "frontpage": null
+  },
+  {
+    "start": 1356882167836,
+    "end": 1356882167836,
+    "contactDate": 1356536567845,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Mistik, Lucani",
+    "pk": 115,
+    "explanation": null
+  },
+  {
+    "start": 1357911036938,
+    "end": 1357911036938,
+    "contactDate": 1356874236946,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Alangolo - Požega",
+    "pk": 116,
+    "explanation": null
+  },
+  {
+    "start": 1370051271522,
+    "end": 1370051271522,
+    "contactDate": 1356922071531,
+    "confirmed": true,
+    "title": "Svadba, hotel Å umadija-Rača Kragujevačka",
+    "pk": 117,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1363524738688,
+    "end": 1363524738688,
+    "contactDate": 1357303938697,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 118,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1369581009006,
+    "end": 1369581009006,
+    "contactDate": 1357402209015,
+    "title": "Svadba, Glamur - Lestani",
+    "pk": 119,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1368357607660,
+    "end": 1368357607660,
+    "contactDate": 1357474807665,
+    "confirmed": true,
+    "title": "Svadba, svecana sala Mladost-Cajetina",
+    "pk": 120,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1370690673761,
+    "end": 1370690673761,
+    "contactDate": 1357475073764,
+    "confirmed": true,
+    "title": "Svadba, hotel Olimpik - Kosjeric",
+    "pk": 121,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1358600876965,
+    "end": 1358600876965,
+    "contactDate": 1357477676969,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Alangolo - Pozega",
+    "pk": 122,
+    "explanation": null
+  },
+  {
+    "start": 1359133774230,
+    "end": 1359133774230,
+    "contactDate": 1357664974239,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Proslava, Tehnicka skola Radoje LJubicic",
+    "pk": 123,
+    "explanation": null
+  },
+  {
+    "start": 1371329182871,
+    "end": 1371329182871,
+    "contactDate": 1357681582880,
+    "confirmed": true,
+    "title": "Svadba, Svecana sala Mladost-Cajetina",
+    "pk": 124,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1379172114011,
+    "end": 1379172114011,
+    "contactDate": 1357748514020,
+    "confirmed": true,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 125,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1368914802456,
+    "end": 1368914802456,
+    "contactDate": 1358291202466,
+    "title": "Svadba, Muzicki klub - Pozega",
+    "pk": 126,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1378547199059,
+    "end": 1378547199059,
+    "contactDate": 1358419599069,
+    "confirmed": true,
+    "title": "Svadba, Radnicki dom - Sevojno",
+    "pk": 127,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1365942128599,
+    "end": 1365942128599,
+    "contactDate": 1358515328610,
+    "confirmed": true,
+    "title": "Rodjendan, restoran Kula - Sevojno",
+    "pk": 128,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1359157305354,
+    "end": 1359157305354,
+    "contactDate": 1358725305359,
+    "frontpage": true,
+    "confirmed": true,
+    "title": "Klub, Alangolo - Pozega",
+    "pk": 129,
+    "explanation": null
+  },
+  {
+    "start": 1362238914248,
+    "end": 1362238914248,
+    "contactDate": 1358869314258,
+    "confirmed": true,
+    "title": "Rodjendan, hotel Olimpik - Kosjeric",
+    "pk": 131,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1369320387427,
+    "end": 1369320387427,
+    "contactDate": 1358869587443,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 132,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1380379735445,
+    "end": 1380379735445,
+    "contactDate": 1358869735461,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 133,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1368726196048,
+    "end": 1368726196048,
+    "contactDate": 1358880196063,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 134,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1382809652273,
+    "end": 1382809652273,
+    "contactDate": 1358880452276,
+    "title": "Svadba, Grand - Pozega",
+    "pk": 135,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1361646556986,
+    "end": 1361646556986,
+    "contactDate": 1359227357002,
+    "title": "Svadba, hotel Lucani ",
+    "pk": 136,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1379880664475,
+    "end": 1379880664475,
+    "contactDate": 1359407464475,
+    "confirmed": true,
+    "title": "Rodjendan, restoran  Narcis - Pozega",
+    "pk": 137,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1375560872164,
+    "end": 1375560872164,
+    "contactDate": 1359407672164,
+    "confirmed": true,
+    "title": "Svadba, svecana sala Kod Rasa, Volujac",
+    "pk": 138,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1372623443608,
+    "end": 1372623443608,
+    "contactDate": 1359407843608,
+    "confirmed": true,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 139,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1368217153536,
+    "end": 1368217153536,
+    "contactDate": 1359407953551,
+    "confirmed": true,
+    "title": "Rodjendan, Muzicki klub - Pozega",
+    "pk": 140,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1359840110069,
+    "end": 1359840110069,
+    "contactDate": 1359408110084,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Alangolo - Pozega",
+    "pk": 141,
+    "explanation": null
+  },
+  {
+    "start": 1377935152567,
+    "end": 1377935152567,
+    "contactDate": 1359708352583,
+    "title": "Arandjelovac, hotel Kruna, svadba",
+    "pk": 143,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1372536828663,
+    "end": 1372536828663,
+    "contactDate": 1359753228673,
+    "title": "Svadba, Grand - Pozega",
+    "pk": 144,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1360365547905,
+    "end": 1360365547905,
+    "contactDate": 1360106347921,
+    "frontpage": true,
+    "title": "Klub Alangolo - Pozega",
+    "pk": 145,
+    "confirmed": true,
+    "explanation": null
+  },
+  {
+    "start": 1372003036388,
+    "end": 1372003036388,
+    "contactDate": 1360342636388,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 146,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1364637960812,
+    "end": 1364637960812,
+    "contactDate": 1360577160843,
+    "confirmed": true,
+    "title": "Svadba, hotel Zlatiborska noc",
+    "pk": 147,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1371149183913,
+    "end": 1371149183913,
+    "contactDate": 1361303183923,
+    "confirmed": true,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 148,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1368816591232,
+    "end": 1368816591232,
+    "contactDate": 1361303391248,
+    "confirmed": true,
+    "title": "Svadba, Muzicki klub - Pozega",
+    "pk": 149,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1373733174004,
+    "end": 1373733174004,
+    "contactDate": 1361381574015,
+    "confirmed": true,
+    "title": "Svadba, Roja - Uzice",
+    "pk": 151,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1364075305712,
+    "end": 1364075305712,
+    "contactDate": 1361742505718,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Castle klub - Ljubovija",
+    "pk": 152,
+    "explanation": null
+  },
+  {
+    "start": 1361965889629,
+    "end": 1361965889636,
+    "contactDate": 1361965889638,
+    "title": "Svadba, Sala kod Bacete - Uzice",
+    "confirmed": true,
+    "pk": 154,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1371725984139,
+    "end": 1371725984139,
+    "contactDate": 1361966384148,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 156,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1362773734344,
+    "end": 1362860134344,
+    "contactDate": 1361996134359,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Proslava povodom DANA ZENA - Hotel Zlatiborska noc",
+    "pk": 157,
+    "explanation": null
+  },
+  {
+    "start": 1368105989453,
+    "end": 1368105989453,
+    "contactDate": 1362061589453,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 159,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1371402041035,
+    "end": 1371402041035,
+    "contactDate": 1362160841051,
+    "confirmed": true,
+    "title": "Svadba, hotel - Lucani",
+    "pk": 160,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1367773639645,
+    "end": 1367773639645,
+    "contactDate": 1362161239645,
+    "confirmed": true,
+    "title": "Rodjendan i krstenje, Novak Lazic, hotel Zlatiborska noc",
+    "pk": 161,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1375627545201,
+    "end": 1375627545201,
+    "contactDate": 1362498345217,
+    "confirmed": true,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 162,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1378651778929,
+    "end": 1378651778929,
+    "contactDate": 1362498578940,
+    "confirmed": true,
+    "title": "Svadba, Muzicki klub - Pozega",
+    "pk": 163,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1382280643243,
+    "end": 1382280643243,
+    "contactDate": 1362498643250,
+    "title": "Svadba, Ivolaz - Uzice",
+    "pk": 164,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1379752863000,
+    "end": 1379752863000,
+    "contactDate": 1362649263000,
+    "title": "Svadba, Muzicki klub - Pozega",
+    "pk": 165,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1369750182990,
+    "end": 1369750182990,
+    "contactDate": 1362668983000,
+    "frontpage": true,
+    "title": "Matura, Tehnicka skola, hotel Zlatibor",
+    "pk": 166,
+    "confirmed": true,
+    "explanation": null
+  },
+  {
+    "start": 1379255004255,
+    "end": 1379255004255,
+    "contactDate": 1363015404271,
+    "confirmed": true,
+    "title": "Svadba, Muzicki klub - Pozega",
+    "pk": 168,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1376733997218,
+    "end": 1376733997218,
+    "contactDate": 1363172797234,
+    "confirmed": true,
+    "title": "Rodjendan, Roja - Uzice",
+    "pk": 170,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1378411473217,
+    "end": 1378411473217,
+    "contactDate": 1363899873232,
+    "confirmed": true,
+    "title": "Svadba, Marija i Vladimir, Ivolaz - Uzice",
+    "pk": 171,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1380969168538,
+    "end": 1380969168538,
+    "contactDate": 1364124768554,
+    "confirmed": true,
+    "title": "Svadba, Svecana sala Roja - Uzice",
+    "pk": 172,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1370778392965,
+    "end": 1370778392965,
+    "contactDate": 1364129192975,
+    "confirmed": true,
+    "title": "Svadba, Muzicki klub - porodica Varagic",
+    "pk": 173,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1369935444151,
+    "end": 1369935444151,
+    "contactDate": 1364236644160,
+    "frontpage": true,
+    "title": "Matura, Ekonomska skola-Uzice, hotel Zlatibor",
+    "pk": 174,
+    "confirmed": true,
+    "explanation": null
+  },
+  {
+    "start": 1365267096296,
+    "end": 1365267096296,
+    "contactDate": 1364320296296,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Mystic - Lucani",
+    "pk": 175,
+    "explanation": null
+  },
+  {
+    "start": 1381600236715,
+    "end": 1381600236715,
+    "contactDate": 1364323836730,
+    "title": "Svadba, Grand sala - Pozega",
+    "pk": 176,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1366556618383,
+    "end": 1366556618383,
+    "contactDate": 1365087818395,
+    "confirmed": true,
+    "title": "Hotel Zlatibor, 18. rodjendan - Mihailo Bogosavljevic",
+    "pk": 178,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1374440039238,
+    "end": 1374440039238,
+    "contactDate": 1365108839253,
+    "confirmed": true,
+    "title": "Uzice, restoran Plaza, Danka i Vladimir - svadba",
+    "pk": 179,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1384034618602,
+    "end": 1384034618602,
+    "contactDate": 1365109418618,
+    "confirmed": true,
+    "title": "Danka i Branko, svadba, hotel Zlatibor - Uzice",
+    "pk": 180,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1376149610818,
+    "end": 1376149610818,
+    "contactDate": 1365608810834,
+    "title": "Priboj, svadba porodica Avramovic",
+    "pk": 184,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1380446449203,
+    "end": 1380446449203,
+    "contactDate": 1366017649216,
+    "confirmed": true,
+    "title": "Svadba, Kikinda , BelavilA",
+    "pk": 185,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1374182319786,
+    "end": 1374182319786,
+    "contactDate": 1366060719802,
+    "confirmed": true,
+    "title": "Uzice,Andrija-prvi rodjendan, Baceta",
+    "pk": 186,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1367079862400,
+    "end": 1367079862400,
+    "contactDate": 1366129462416,
+    "confirmed": true,
+    "frontpage": true,
+    "title": " Klub Mistik, Lucani",
+    "pk": 187,
+    "explanation": null
+  },
+  {
+    "start": 1370549336879,
+    "end": 1370549336879,
+    "contactDate": 1366229336895,
+    "title": "Lucani, matura - hotel",
+    "frontpage": true,
+    "pk": 189,
+    "confirmed": null,
+    "explanation": null
+  },
+  {
+    "start": 1370349385559,
+    "end": 1370349385559,
+    "contactDate": 1366374985574,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Matura, Tehnicka skola  Radoje Ljubicic , hotel Zlatibor",
+    "pk": 190,
+    "explanation": null
+  },
+  {
+    "start": 1382174912979,
+    "end": 1382174912979,
+    "contactDate": 1366450112995,
+    "title": "Pozega, Grand sala, svadba",
+    "pk": 191,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1373586326769,
+    "end": 1373586326769,
+    "contactDate": 1368229526782,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub - rodjendan",
+    "pk": 192,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1369993232471,
+    "end": 1369993232471,
+    "contactDate": 1368351632487,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Kosjeric, matura, restoran Park",
+    "pk": 193,
+    "explanation": null
+  },
+  {
+    "start": 1382825292420,
+    "end": 1382825292420,
+    "contactDate": 1368655692436,
+    "confirmed": true,
+    "title": "Uzice, sala Roja, Marija i Zeljko",
+    "pk": 194,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1373757901667,
+    "end": 1373757901667,
+    "contactDate": 1368833101683,
+    "title": "Jovana i Danko, restoran Dobar pogled - Nova Varos",
+    "pk": 195,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1377796099346,
+    "end": 1377796099346,
+    "contactDate": 1369069699362,
+    "title": "Uzice, Ivolaz, svadba",
+    "pk": 196,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1377197792711,
+    "end": 1377197792711,
+    "contactDate": 1369162592726,
+    "confirmed": true,
+    "title": "Rodjendan - Elena, Baceta, Uzice",
+    "pk": 197,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1381047568267,
+    "end": 1381047568267,
+    "contactDate": 1369383568283,
+    "title": "Uzice, svadba",
+    "pk": 198,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1383484802455,
+    "end": 1383484802455,
+    "contactDate": 1369398002471,
+    "title": "Uzice, Ivolaz, svadba, Danka i Dragan",
+    "pk": 199,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1377361378741,
+    "end": 1377361378741,
+    "contactDate": 1370622178756,
+    "confirmed": true,
+    "title": "Pozega, svadba",
+    "pk": 200,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1375144069070,
+    "end": 1375144069070,
+    "contactDate": 1371256069084,
+    "title": "Uzice, rodjendan - Roja",
+    "pk": 201,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1375964828027,
+    "end": 1375964828027,
+    "contactDate": 1371472028027,
+    "confirmed": true,
+    "title": "Ivana i Oliver, Uzice - Ivolaz, svadba",
+    "pk": 202,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1376214135784,
+    "end": 1376214135784,
+    "contactDate": 1371721335800,
+    "title": "Kosjeric, hotel Skrapez - svadba",
+    "pk": 203,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1375791445800,
+    "end": 1375791445800,
+    "contactDate": 1372940245808,
+    "title": "Bazen - Sevojno, 18 rodjendan",
+    "pk": 204,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1378941756636,
+    "end": 1378941756636,
+    "contactDate": 1373757756651,
+    "confirmed": true,
+    "title": "Uzice, Roja - svadba",
+    "pk": 205,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1384080672829,
+    "end": 1384080672829,
+    "contactDate": 1374400272845,
+    "confirmed": true,
+    "title": "Uzice, Ivolaz - svadba",
+    "pk": 206,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1384694498247,
+    "end": 1384694498247,
+    "contactDate": 1374582098262,
+    "confirmed": true,
+    "title": "Pozega, Grand sala, Sara - prvi rodjendan",
+    "pk": 207,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1381690210757,
+    "end": 1381690210757,
+    "contactDate": 1374605410772,
+    "title": "Uzice, Baceta, svadba Emina i Vlatko",
+    "pk": 208,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1379959761408,
+    "end": 1379959761408,
+    "contactDate": 1375466961412,
+    "title": "Uzice, svadba - Ivolaz",
+    "pk": 210,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1383300550126,
+    "end": 1383300550126,
+    "contactDate": 1375693750130,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Zlatiborska noc, Proslava lekara uzickog kraja",
+    "pk": 211,
+    "explanation": null
+  },
+  {
+    "start": 1402755413605,
+    "end": 1402755413605,
+    "contactDate": 1377440213623,
+    "title": "Uzice, Ivolaz - svadba",
+    "pk": 213,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1402130830769,
+    "end": 1402130830769,
+    "contactDate": 1378630030785,
+    "title": "Uzice, Ivolaz - svadba, Jelena i Dejan",
+    "pk": 214,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1383431545062,
+    "end": 1383431545062,
+    "contactDate": 1378848745077,
+    "title": "Bajina Basta, restoran Zvezda, svadba",
+    "pk": 215,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1381527633890,
+    "end": 1381527633890,
+    "contactDate": 1378849233905,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Pozega, klub S - kafe",
+    "pk": 216,
+    "explanation": null
+  },
+  {
+    "start": 1380923015505,
+    "end": 1380923015505,
+    "contactDate": 1378849415521,
+    "frontpage": true,
+    "confirmed": true,
+    "title": "Pozega, klub S - kafe",
+    "pk": 217,
+    "explanation": null
+  },
+  {
+    "start": 1400374818599,
+    "end": 1400374818599,
+    "contactDate": 1379293218619,
+    "confirmed": true,
+    "title": "Uzice, Ivolaz, svadba Irena i Vaso",
+    "pk": 220,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1398474528069,
+    "end": 1398474528069,
+    "contactDate": 1379293728087,
+    "confirmed": true,
+    "title": "Uzice, sala kod Rasa Volujac, svadba",
+    "pk": 222,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1401045084744,
+    "end": 1401045084744,
+    "contactDate": 1379358684760,
+    "confirmed": true,
+    "title": "Uzice, Ivolaz, Danka i Nemanja - svadba",
+    "pk": 223,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1385237695135,
+    "end": 1385237695135,
+    "contactDate": 1379358895150,
+    "confirmed": true,
+    "title": "Uzice, sala kod Roje, svadba",
+    "pk": 224,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1399187447381,
+    "end": 1399187447381,
+    "contactDate": 1379833847385,
+    "title": "Arandjelovac,hotel Kruna, Mirjana i Dragan",
+    "pk": 225,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1399757835281,
+    "end": 1399757835281,
+    "contactDate": 1379972235297,
+    "confirmed": true,
+    "title": "Voluujac - Sala kod Rasa, svadba",
+    "pk": 226,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1399121571308,
+    "end": 1399121571308,
+    "contactDate": 1380113571323,
+    "title": "Uzice, Sala kod Rasa,svadba",
+    "pk": 227,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1400359198087,
+    "end": 1400359198087,
+    "contactDate": 1380227998091,
+    "title": "Uzice, hotel Zlatibor, svadba / klub Skala",
+    "pk": 228,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1392493194229,
+    "end": 1392493194229,
+    "contactDate": 1380566394244,
+    "title": "Cacak, rodjendan, restoran Kristal",
+    "pk": 229,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1385328695273,
+    "end": 1385328695273,
+    "contactDate": 1380573095289,
+    "confirmed": true,
+    "title": "Uzice, hotel Zlatibor - svadba",
+    "pk": 230,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1400963599153,
+    "end": 1400963599153,
+    "contactDate": 1380573199180,
+    "title": "Pozega, Rubin, svadba",
+    "pk": 231,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1401622323466,
+    "end": 1401622323466,
+    "contactDate": 1380627123482,
+    "title": "Uzice,Darko i Nada, Ivolaz - svadba",
+    "pk": 232,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1384640042872,
+    "end": 1384640042872,
+    "contactDate": 1382044442876,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Lucani, klub Mystic",
+    "pk": 233,
+    "explanation": null
+  },
+  {
+    "start": 1398901310699,
+    "end": 1398901310699,
+    "contactDate": 1382226110715,
+    "confirmed": true,
+    "title": "Volujac, Sala kod Rasa, svadba",
+    "pk": 234,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1396717604729,
+    "end": 1396717604729,
+    "contactDate": 1383588404744,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub - Rodjendan",
+    "pk": 235,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1383923159680,
+    "end": 1383923159680,
+    "contactDate": 1383663959695,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Sevojno, restoran Kula, proslava",
+    "pk": 236,
+    "explanation": null
+  },
+  {
+    "start": 1388617514184,
+    "end": 1388617514184,
+    "contactDate": 1384038314189,
+    "confirmed": true,
+    "title": "Rodjendan, Muzicki klub, Pozega",
+    "pk": 239,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1393700511904,
+    "end": 1393700511904,
+    "contactDate": 1384196511920,
+    "title": "Uzice, Petra i Nenad, svadba",
+    "pk": 240,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1387008679745,
+    "end": 1387008679745,
+    "contactDate": 1384416679807,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub, rodjendan - Dunja",
+    "pk": 241,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1399825514987,
+    "end": 1399825514987,
+    "contactDate": 1384449914992,
+    "confirmed": true,
+    "title": "Uzice, hotel Zlatibor, svadba",
+    "pk": 242,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1387117031609,
+    "end": 1387117031609,
+    "contactDate": 1384525031624,
+    "confirmed": true,
+    "title": "Uzice, hotel Zlatibor, rodjendan",
+    "pk": 244,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1388518811841,
+    "end": 1388605211841,
+    "contactDate": 1385062811846,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hotel Olympic - Kosjeric",
+    "pk": 245,
+    "explanation": null
+  },
+  {
+    "start": 1387647090008,
+    "end": 1387647090008,
+    "contactDate": 1385573490024,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hotel Zlatiborska noc - proslava",
+    "pk": 247,
+    "explanation": null
+  },
+  {
+    "start": 1388165533622,
+    "end": 1388165533622,
+    "contactDate": 1385573533622,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hotel Zlatiborska noc - proslava",
+    "pk": 248,
+    "explanation": null
+  },
+  {
+    "start": 1388251965375,
+    "end": 1388251965375,
+    "contactDate": 1385573565381,
+    "title": "Ugrinovci, restoran Dve kule, svadba",
+    "pk": 249,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1393769421926,
+    "end": 1393769421926,
+    "contactDate": 1385734221941,
+    "title": "Uzice, svadba, Sala kod Roje",
+    "pk": 250,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1398620716931,
+    "end": 1398620716931,
+    "contactDate": 1386269116947,
+    "title": "Mirjana i Rade, svadba, Ivolaz, Uzice",
+    "pk": 251,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1402422304225,
+    "end": 1402422304225,
+    "contactDate": 1386960304240,
+    "confirmed": true,
+    "title": "Muzički klub, rođendan",
+    "pk": 253,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1402257363061,
+    "end": 1402257363061,
+    "contactDate": 1387227363093,
+    "title": "Beograd, Garden vista, svadba",
+    "pk": 254,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1410618154116,
+    "end": 1410618154116,
+    "contactDate": 1388330554132,
+    "confirmed": true,
+    "title": "Volujac, Sala kod Raša, svadba",
+    "pk": 255,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1390821323283,
+    "end": 1390821323283,
+    "contactDate": 1388402123298,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Užice, proslava Savindana, TŠ Radoje LJubičić",
+    "pk": 256,
+    "explanation": null
+  },
+  {
+    "start": 1391279961562,
+    "end": 1391279961562,
+    "contactDate": 1388774361562,
+    "confirmed": true,
+    "title": "Kosjerić, hotel Olympic, rodjendan",
+    "pk": 258,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1393180812328,
+    "end": 1393180812328,
+    "contactDate": 1388774412328,
+    "confirmed": true,
+    "title": "Užice, Dva cveta, rodjendan",
+    "pk": 259,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1389461489898,
+    "end": 1389461489898,
+    "contactDate": 1389202289898,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Uzice, klub Skala",
+    "pk": 261,
+    "explanation": null
+  },
+  {
+    "start": 1406412195893,
+    "end": 1406412195893,
+    "contactDate": 1389394995893,
+    "title": "Uzice, Ivolaz, svadba",
+    "pk": 262,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1409994740493,
+    "end": 1409994740493,
+    "contactDate": 1389607940508,
+    "title": "Svadba, Rubin, Požega",
+    "pk": 264,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1411204450539,
+    "end": 1411204450539,
+    "contactDate": 1389608050554,
+    "title": "Svadba, Grand sala, Požega",
+    "pk": 265,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1393249917085,
+    "end": 1393249917085,
+    "contactDate": 1389621117101,
+    "title": "Uzice, restoran Plaza, rodjendan",
+    "confirmed": true,
+    "pk": 266,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1402847144997,
+    "end": 1402847144997,
+    "contactDate": 1389631545013,
+    "title": "Sremski Karlovci, vencanje, hotel Dunav",
+    "pk": 267,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1406407957344,
+    "end": 1406407957344,
+    "contactDate": 1389649957360,
+    "title": "Uzice, Ivolaz, svadba",
+    "pk": 268,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1391985518441,
+    "end": 1391985518441,
+    "contactDate": 1389652718457,
+    "confirmed": true,
+    "title": "Uzice, Kineski restoran, rodjendan",
+    "pk": 269,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1409433285686,
+    "end": 1409433285686,
+    "contactDate": 1390515285690,
+    "title": "Lucani, hotel, svadba",
+    "pk": 271,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1410124684652,
+    "end": 1410124684652,
+    "contactDate": 1390515484657,
+    "title": "Mirjana i Branko, hotel Zlatibor, Uzice, svadba",
+    "pk": 272,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1409472734023,
+    "end": 1409472734023,
+    "contactDate": 1390641134038,
+    "confirmed": true,
+    "title": "Ovcar Banja, Ivana i Srdjan, svadba",
+    "pk": 273,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1415524397461,
+    "end": 1415524397461,
+    "contactDate": 1390641197470,
+    "title": "Bajina Basta, rodjendan",
+    "confirmed": true,
+    "pk": 274,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1402606932396,
+    "end": 1402606932396,
+    "contactDate": 1391032932401,
+    "title": "Rodjendan, Grand sala, Pozega",
+    "pk": 275,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1392406810792,
+    "end": 1392406810792,
+    "contactDate": 1391197210817,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Uzice, club Garage",
+    "pk": 276,
+    "explanation": null
+  },
+  {
+    "start": 1407605712158,
+    "end": 1407605712158,
+    "contactDate": 1391366112174,
+    "title": "Pozega, Grand sala, svadba",
+    "pk": 277,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1405764755446,
+    "end": 1405764755446,
+    "contactDate": 1391512355464,
+    "title": "Uzice, hotel Zlatibor, Sonja i MIlan, svadba",
+    "pk": 279,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1394289799756,
+    "end": 1394289799756,
+    "contactDate": 1391524999773,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Uzice, hotel Zlatibor, Lovacka zabava",
+    "pk": 280,
+    "explanation": null
+  },
+  {
+    "start": 1410712109469,
+    "end": 1410712109469,
+    "contactDate": 1391707709476,
+    "title": "Bajina Basta, sala Zvezda, Jelena i Ivan, svadba",
+    "pk": 281,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1403384637631,
+    "end": 1403384637631,
+    "contactDate": 1392242637649,
+    "title": "Arandjelovac, hotel Kruna, Mirka i Filip, svadba",
+    "pk": 282,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1401969754356,
+    "end": 1401969754356,
+    "contactDate": 1392296554377,
+    "frontpage": true,
+    "title": "Uzice, hotel Zlatibor,  matura Ekonomska skola",
+    "pk": 283,
+    "confirmed": true,
+    "explanation": null
+  },
+  {
+    "start": 1411292979061,
+    "end": 1411292979061,
+    "contactDate": 1392374979079,
+    "title": "Volujac, kod Rasa, Ivana i Dejan, svadba",
+    "pk": 284,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1404572059803,
+    "end": 1404572059803,
+    "contactDate": 1392652459819,
+    "title": "Pozega, Grand sala, 18. rodjendan",
+    "confirmed": true,
+    "pk": 285,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1396184196466,
+    "end": 1396184196466,
+    "contactDate": 1392818196483,
+    "confirmed": true,
+    "title": "Uzice, restoran Dva cveta, rodjendan",
+    "pk": 286,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1413637481530,
+    "end": 1413637481530,
+    "contactDate": 1392818681547,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub, Goca i Slobo, svadba",
+    "pk": 287,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1402057153558,
+    "end": 1402057153558,
+    "contactDate": 1393247953577,
+    "confirmed": true,
+    "title": "TS Radoje Ljubicic -  Matura",
+    "pk": 288,
+    "frontpage": true,
+    "explanation": null
+  },
+  {
+    "start": 1393965986329,
+    "end": 1393965986329,
+    "contactDate": 1393533986349,
+    "title": "Uzice, klub Skala",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 289,
+    "explanation": null
+  },
+  {
+    "start": 1407679255246,
+    "end": 1407679255246,
+    "contactDate": 1393599655266,
+    "title": "Pozega, Grand sala no 3, svadba",
+    "pk": 290,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1409846727043,
+    "end": 1409846727043,
+    "contactDate": 1394125527063,
+    "title": "Uzice, Ivolaz, Milka i MIco, svadba",
+    "pk": 293,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1412531328490,
+    "end": 1412531328490,
+    "contactDate": 1394477328508,
+    "title": "Uzice, hotel Zlatibor, Tanja i Branko,svadba",
+    "pk": 296,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1394879915105,
+    "end": 1394879915105,
+    "contactDate": 1394620715131,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Uzice, klub Skala",
+    "pk": 297,
+    "explanation": null
+  },
+  {
+    "start": 1401507590274,
+    "end": 1401507590274,
+    "contactDate": 1394944790293,
+    "confirmed": true,
+    "title": "Uzice, Ivolaz, Milica i Nikola - svadba",
+    "pk": 298,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1396109041166,
+    "end": 1396109041166,
+    "contactDate": 1395158641183,
+    "frontpage": true,
+    "title": " Užice, klub Kontra",
+    "pk": 300,
+    "confirmed": true,
+    "explanation": null
+  },
+  {
+    "start": 1411916680779,
+    "end": 1411916680779,
+    "contactDate": 1395158680787,
+    "title": "Svadba,Slavica i Ivan,M.klub, Požega",
+    "pk": 301,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1413040775311,
+    "end": 1413040775311,
+    "contactDate": 1395245975333,
+    "title": "Ljubovija, Markovi konaci, svadba",
+    "pk": 302,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1395511134691,
+    "end": 1395511134705,
+    "contactDate": 1394906334709,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "klub Mystic, Lucani",
+    "pk": 303,
+    "explanation": null
+  },
+  {
+    "start": 1396029604005,
+    "end": 1396029604005,
+    "contactDate": 1395511204022,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "S cafe, Pozega",
+    "pk": 304,
+    "explanation": null
+  },
+  {
+    "start": 1405845609683,
+    "end": 1405845609683,
+    "contactDate": 1395913209707,
+    "confirmed": true,
+    "title": "Uzice, sala kod Rasa,Milica i Marko, svadba",
+    "pk": 305,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1396304444793,
+    "end": 1396304444793,
+    "contactDate": 1396135244797,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Uzice, klub Skala",
+    "pk": 306,
+    "explanation": null
+  },
+  {
+    "start": 1414943905125,
+    "end": 1414943905125,
+    "contactDate": 1396364305173,
+    "confirmed": true,
+    "title": "Uzice, restoran Plaza, 18. rodjendan - Tamara",
+    "pk": 307,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1400166003087,
+    "end": 1400166003087,
+    "contactDate": 1396623603091,
+    "title": "Uzice, hotel Zlatibor, svadba",
+    "pk": 309,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1400770951165,
+    "end": 1400770951165,
+    "contactDate": 1396623751170,
+    "title": "Uzice, sala Roja, svadba",
+    "pk": 310,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1414230872350,
+    "end": 1414230872350,
+    "contactDate": 1396691672367,
+    "confirmed": true,
+    "title": "Lucani,hotel, 1.rodjendan-Djordje",
+    "pk": 311,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1413711652643,
+    "end": 1413711652643,
+    "contactDate": 1396863652659,
+    "title": "Uzice,hotel Zlatibor, svadba",
+    "pk": 312,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1396950475544,
+    "end": 1396950475544,
+    "contactDate": 1396864075562,
+    "title": "Uzice, klub Skala",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 313,
+    "explanation": null
+  },
+  {
+    "start": 1397301921316,
+    "end": 1397301921316,
+    "contactDate": 1396869921344,
+    "title": "Lucani, klub Mystic",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 314,
+    "explanation": null
+  },
+  {
+    "start": 1397832239825,
+    "end": 1397832239825,
+    "contactDate": 1397141039843,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Pozega, S - kafe",
+    "pk": 315,
+    "explanation": null
+  },
+  {
+    "start": 1397918911792,
+    "end": 1397918911792,
+    "contactDate": 1397141311809,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Uzice, klub Kontra",
+    "pk": 316,
+    "explanation": null
+  },
+  {
+    "start": 1414337090723,
+    "end": 1414337090723,
+    "contactDate": 1397571890729,
+    "title": "Uzice, hotel Zlatibor, Tijana i Goran",
+    "pk": 317,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1413135899591,
+    "end": 1413135899591,
+    "contactDate": 1398102299613,
+    "title": "Arilje, svadba",
+    "confirmed": true,
+    "pk": 318,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1405282193688,
+    "end": 1405282193688,
+    "contactDate": 1398888593703,
+    "confirmed": true,
+    "title": "Arilje, sala Decani, svadba, Slavica i Ivan",
+    "pk": 319,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1414836662513,
+    "end": 1414836662513,
+    "contactDate": 1399281062531,
+    "title": "Užice, Sala kod Raša, Ivana i Igor, svadba",
+    "pk": 320,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1431770749833,
+    "end": 1431770749833,
+    "contactDate": 1399889149852,
+    "title": "Beograd, restoran Narcis, Snezana i Milos, svadba",
+    "confirmed": true,
+    "pk": 321,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1432376281889,
+    "end": 1432376281889,
+    "contactDate": 1399889881935,
+    "confirmed": true,
+    "title": "Uzice, sala kod Rasa, svadba",
+    "pk": 322,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1415444921392,
+    "end": 1415444921392,
+    "contactDate": 1400494121408,
+    "title": "Punoletstvo, Ivana Gacic, Uzice, Sala kod Roje",
+    "pk": 323,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1401180148644,
+    "end": 1401180148644,
+    "contactDate": 1400661748661,
+    "confirmed": true,
+    "title": "Uzice,Roja, Jovana i Ilija, svadba",
+    "pk": 326,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1401290437913,
+    "end": 1401290437913,
+    "contactDate": 1400858437931,
+    "confirmed": true,
+    "title": "Pozega,Muzicki klub,matura",
+    "pk": 327,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1401895422439,
+    "end": 1401895422439,
+    "contactDate": 1400858622456,
+    "confirmed": true,
+    "title": "Pozega, muzicki klub, matura",
+    "pk": 328,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1401458638489,
+    "end": 1401458638489,
+    "contactDate": 1401372238505,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Uzice, hotel Zlatibor, matura Tehnicka skola Radoje Maric",
+    "pk": 329,
+    "explanation": null
+  },
+  {
+    "start": 1403915931120,
+    "end": 1403915931120,
+    "contactDate": 1401928731136,
+    "title": "Uzice, restoran Alexandar, rodjendan",
+    "pk": 330,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1401756043044,
+    "end": 1401756043057,
+    "contactDate": 1401928843061,
+    "confirmed": true,
+    "title": "Uzice, privatna zurka, porodica Lukuć",
+    "pk": 331,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1404607533148,
+    "end": 1404607533148,
+    "contactDate": 1401929133259,
+    "confirmed": true,
+    "title": "Bajina Bašta, rođendan",
+    "pk": 332,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1413461809154,
+    "end": 1413461809154,
+    "contactDate": 1402661809160,
+    "confirmed": true,
+    "title": "Arandjelovac, hotel Kruna,svadba, Sladja i Milos",
+    "pk": 333,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1405193980146,
+    "end": 1405193980146,
+    "contactDate": 1402947580171,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Pozega, S - caffe, otvaranje baste",
+    "pk": 334,
+    "explanation": null
+  },
+  {
+    "start": 1431173161496,
+    "end": 1431173161496,
+    "contactDate": 1403006761514,
+    "confirmed": true,
+    "title": "Uzice, hotel Zlatibor, Jovana i Zeljko - svadba",
+    "pk": 335,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1408614616055,
+    "end": 1408614616055,
+    "contactDate": 1404553816071,
+    "confirmed": true,
+    "title": "Požega, Muzički klub, rođendan",
+    "pk": 336,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1407753957750,
+    "end": 1408445157750,
+    "contactDate": 1404557157778,
+    "confirmed": true,
+    "title": "Godišnji odmor ",
+    "pk": 337,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1431274851537,
+    "end": 1431274851537,
+    "contactDate": 1404750051557,
+    "title": "Aranđelovac, hotel Kruna, Jasmina i Milos, svadba",
+    "pk": 338,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1414018030680,
+    "end": 1414018030680,
+    "contactDate": 1404946030696,
+    "title": "Ivolaz, svadba",
+    "pk": 339,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1411672315918,
+    "end": 1411672315918,
+    "contactDate": 1405365115940,
+    "title": "Pozega, sala Rubin, Dragana i Zeljko, svadba",
+    "pk": 340,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1410991817524,
+    "end": 1410991817524,
+    "contactDate": 1406239817531,
+    "title": "Pozega, Muzicki klub, Tanja i Bojan, svadba",
+    "pk": 341,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1416079042977,
+    "end": 1416079042977,
+    "contactDate": 1407089842995,
+    "title": "Uzice, Ivolaz, Marina i Nikola, svadba",
+    "pk": 342,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1416693805264,
+    "end": 1416693805264,
+    "contactDate": 1407186205280,
+    "title": "Tijana i Dalibor, svadba, Volujac, Sala kod Rasa",
+    "pk": 343,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1433606951496,
+    "end": 1433606951496,
+    "contactDate": 1408896551513,
+    "title": "Uzice, Ivolaz, svadba",
+    "pk": 345,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1429966013028,
+    "end": 1429966013028,
+    "contactDate": 1409662013044,
+    "title": "Uzice, Ivolaz, svadba",
+    "pk": 346,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1416735364827,
+    "end": 1416735364827,
+    "contactDate": 1410424564844,
+    "title": "Arilje, sala Radost, Ivana i Milan, svadba",
+    "pk": 347,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1430665151813,
+    "end": 1430665151813,
+    "contactDate": 1410447551838,
+    "title": "Uzice, sala kod Rasa, Katarina i Slobodan, svadba",
+    "pk": 348,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1438432364735,
+    "end": 1438432364735,
+    "contactDate": 1410957164752,
+    "title": "Uzice, Sala kod Rasa, svadba",
+    "pk": 349,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1414106565637,
+    "end": 1414106565637,
+    "contactDate": 1411514565656,
+    "title": "Uzice, Zlatiborska noc, Proslava lekara uzickog regiona",
+    "pk": 350,
+    "confirmed": true,
+    "frontpage": true,
+    "explanation": null
+  },
+  {
+    "start": 1431886871831,
+    "end": 1431886871831,
+    "contactDate": 1411755671847,
+    "confirmed": true,
+    "title": "Uzice, Ivolaz, Marija i Nikola, svadba",
+    "pk": 351,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1416166082627,
+    "end": 1416166082627,
+    "contactDate": 1411756082642,
+    "title": "Uzice, Ivolaz, Dragana i Marko, svadba",
+    "pk": 352,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1417906432994,
+    "end": 1417906432994,
+    "contactDate": 1412546032998,
+    "title": "Uzice, Dva cveta, Tamara - 18. rodjendan",
+    "pk": 355,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1429315244216,
+    "end": 1429315244216,
+    "contactDate": 1413072044236,
+    "title": "Pozega, Muzicki klub, Ivana i Savo, svadba",
+    "confirmed": true,
+    "pk": 359,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1413203694138,
+    "end": 1413203694151,
+    "contactDate": 1413203694155,
+    "title": "Pozega, Muzicki klub, Mara i Darko, svadba",
+    "confirmed": true,
+    "pk": 360,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1417095488206,
+    "end": 1417095488206,
+    "contactDate": 1413203888224,
+    "title": "Bajina Basta, sala Zvezda, svadba",
+    "pk": 361,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1417268433252,
+    "end": 1417268433252,
+    "contactDate": 1413204033268,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Uzice, klub Kontra",
+    "pk": 362,
+    "explanation": null
+  },
+  {
+    "start": 1433681066944,
+    "end": 1433681066944,
+    "contactDate": 1413204266960,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub, Mara i Darko, svadba",
+    "pk": 363,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1430005018975,
+    "end": 1430005018975,
+    "contactDate": 1413416218992,
+    "title": "Uzice, Ivolaz, Vida i Branko, svadba",
+    "confirmed": true,
+    "pk": 364,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1414537345604,
+    "end": 1414537345604,
+    "contactDate": 1413756145620,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Caffe Boss, Lucani",
+    "pk": 365,
+    "explanation": null
+  },
+  {
+    "start": 1433004414049,
+    "end": 1433004414049,
+    "contactDate": 1413910014065,
+    "title": "Uzice, svadba",
+    "pk": 368,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1419688734444,
+    "end": 1419688734444,
+    "contactDate": 1414418334464,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Uzice, klub Kontra",
+    "pk": 369,
+    "explanation": null
+  },
+  {
+    "start": 1415973716417,
+    "end": 1415973716417,
+    "contactDate": 1414418516433,
+    "confirmed": true,
+    "title": "Uzice, Nasa kuca, proslava",
+    "pk": 370,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1432498687327,
+    "end": 1432498687327,
+    "contactDate": 1414444687342,
+    "title": "Pozega, sala Rubin, svadba kod Velja dase",
+    "pk": 371,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1437246528913,
+    "end": 1437246528913,
+    "contactDate": 1415304528929,
+    "title": "Volujac, sala kod Rasa, Ana i Srdjan, svadba",
+    "pk": 375,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1416487984202,
+    "end": 1416574384202,
+    "contactDate": 1415364784220,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Zlatibor, klub Apolo",
+    "pk": 376,
+    "explanation": null
+  },
+  {
+    "start": 1429225015277,
+    "end": 1429225015277,
+    "contactDate": 1415663815292,
+    "title": "Pozega, Grand sala, rodjendan",
+    "pk": 377,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1424017394774,
+    "end": 1424017394774,
+    "contactDate": 1415722994789,
+    "confirmed": true,
+    "title": "Zlatibor, hotel Palisad, Jelena i Nikola, svadba",
+    "pk": 378,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1424563283034,
+    "end": 1424563283034,
+    "contactDate": 1416096083049,
+    "confirmed": true,
+    "title": "Uzice, Ivolaz, Ivana i Vladimir",
+    "pk": 379,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1432242263492,
+    "end": 1432242263492,
+    "contactDate": 1416261863514,
+    "title": "Pozega, Muzicki klub, Jasna i Nikola, svadba",
+    "pk": 381,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1422721466839,
+    "end": 1422721466839,
+    "contactDate": 1416327866857,
+    "title": "Pozega, Muzicki klub, Bojana i Slobodan, vencanje",
+    "pk": 382,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1430397945291,
+    "end": 1430397945291,
+    "contactDate": 1416577545340,
+    "title": "Uzice, Ivolaz, Sladja  i Marko, svadba",
+    "pk": 383,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1419536722466,
+    "end": 1419623122466,
+    "contactDate": 1417031122486,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Zlatiborska noc, proslava",
+    "pk": 386,
+    "explanation": null
+  },
+  {
+    "start": 1417808927431,
+    "end": 1417808927431,
+    "contactDate": 1417031327447,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Pozega, klub S - caffe",
+    "pk": 387,
+    "explanation": null
+  },
+  {
+    "start": 1421524420814,
+    "end": 1421524420814,
+    "contactDate": 1417031620831,
+    "confirmed": true,
+    "title": "Uzice, Ivolaz, svadba",
+    "pk": 389,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1422138979932,
+    "end": 1422138979932,
+    "contactDate": 1417214179947,
+    "confirmed": true,
+    "title": "Uzice, restoran Plaza, rodjendan",
+    "pk": 390,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1439050928105,
+    "end": 1439050928105,
+    "contactDate": 1417281728123,
+    "title": "Uzice, sala Roja, Milica i Mirko, svadba",
+    "pk": 391,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1430595117791,
+    "end": 1430595117791,
+    "contactDate": 1417293117807,
+    "title": "Uzice, restoran Plaza, Milica i Dragoslav, vencanje",
+    "pk": 393,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1418385029626,
+    "end": 1418471429626,
+    "contactDate": 1417866629643,
+    "title": "Podgorica, klub Od sumraka do svitanja",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 394,
+    "explanation": null
+  },
+  {
+    "start": 1419077536061,
+    "end": 1419077536061,
+    "contactDate": 1417954336093,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Lucani, klub Mystic",
+    "pk": 395,
+    "explanation": null
+  },
+  {
+    "start": 1420724347529,
+    "end": 1420724347529,
+    "contactDate": 1418045947546,
+    "confirmed": true,
+    "title": "Uzice, restoran Plaza, punoletstvo",
+    "pk": 397,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1437829589211,
+    "end": 1437829589211,
+    "contactDate": 1418220389228,
+    "title": "Volujac, sala kod Rasa, Sanja i Miroslav, svadba",
+    "confirmed": true,
+    "pk": 398,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1403339444743,
+    "end": 1403339444743,
+    "contactDate": 1418290244759,
+    "title": "Arilje, sala Progres, rodjendan",
+    "confirmed": true,
+    "pk": 400,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1434875943534,
+    "end": 1434875943534,
+    "contactDate": 1418290743551,
+    "confirmed": true,
+    "title": "Arilje, sala Progres, rodjendan",
+    "pk": 401,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1442675850836,
+    "end": 1442675850836,
+    "contactDate": 1418314650858,
+    "title": "Pozega, sala Spektar, Goca i Slavko, svadba",
+    "confirmed": true,
+    "pk": 402,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1420044285731,
+    "end": 1420303485731,
+    "contactDate": 1418575485754,
+    "title": "Podgorica, klub Od sumraka do svitanja",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 403,
+    "explanation": null
+  },
+  {
+    "start": 1419927832386,
+    "end": 1419927832386,
+    "contactDate": 1418718232405,
+    "title": "Hotel Zlatibor, proslava",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 404,
+    "explanation": null
+  },
+  {
+    "start": 1423295877973,
+    "end": 1423295877973,
+    "contactDate": 1419407877989,
+    "confirmed": true,
+    "title": "Pozega, River, rodjendan kod Jakova",
+    "pk": 406,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1420412189200,
+    "end": 1420412189200,
+    "contactDate": 1419807389218,
+    "title": "Uzice, restoran, Nasa kuca, rodjendan",
+    "confirmed": true,
+    "pk": 407,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1428825925926,
+    "end": 1428825925926,
+    "contactDate": 1420535125941,
+    "title": "Uzice, Sala kod Rasa, Marina i Pedja, svadba",
+    "pk": 408,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1420880961149,
+    "end": 1420880961149,
+    "contactDate": 1420535361168,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Lucani, klub Mistyc",
+    "pk": 409,
+    "explanation": null
+  },
+  {
+    "start": 1421175695791,
+    "end": 1421175695791,
+    "contactDate": 1420570895809,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Uzice, klub Kontra",
+    "pk": 410,
+    "explanation": null
+  },
+  {
+    "start": 1422212702025,
+    "end": 1422212702025,
+    "contactDate": 1420571102046,
+    "confirmed": true,
+    "title": "Uzice, restoran Plaza, rodjendan",
+    "pk": 411,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1421435309470,
+    "end": 1421435309470,
+    "contactDate": 1420571309491,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Pozega, restoran Potkovica",
+    "pk": 412,
+    "explanation": null
+  },
+  {
+    "start": 1437909724827,
+    "end": 1437909724827,
+    "contactDate": 1420806124844,
+    "title": "Uzice, restoran Plaza, Jelena i Nikola, svadba",
+    "explanation": "svadba",
+    "pk": 413,
+    "confirmed": true,
+    "frontpage": null
+  },
+  {
+    "start": 1440861258723,
+    "end": 1440861258723,
+    "contactDate": 1420820058741,
+    "title": "Pozega, Grand sala, Marija i Nikola, svadba",
+    "pk": 414,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1432318317289,
+    "end": 1432318317289,
+    "contactDate": 1421349117306,
+    "title": "Uzice, Kineski restoran, rodjendan",
+    "pk": 415,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1443908357822,
+    "end": 1443908357822,
+    "contactDate": 1421361557847,
+    "title": "Pozega, Muzicki klub,svadba,Ivana i Jovan",
+    "pk": 416,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1443296130619,
+    "end": 1443296130619,
+    "contactDate": 1421613330635,
+    "title": "Uzice, Sala kod Rasa, Marija i Ivan, svadba",
+    "pk": 417,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1444505935024,
+    "end": 1444505935024,
+    "contactDate": 1421613535038,
+    "title": "Uzice, Ivolaz, svadba",
+    "pk": 418,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1437318758585,
+    "end": 1437318758585,
+    "contactDate": 1421770358602,
+    "title": "Guca, Brocica avlija, Marija i Jovan, svadba",
+    "pk": 419,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1441476233135,
+    "end": 1441476233135,
+    "contactDate": 1421780633156,
+    "title": "Bajina Basta, Talija, Ivana i Nikola, svadba",
+    "pk": 420,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1445095825808,
+    "end": 1445095825808,
+    "contactDate": 1421944225829,
+    "confirmed": true,
+    "title": "Uzice, sala kod Rasa, svadba",
+    "pk": 421,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1442165544243,
+    "end": 1442165544243,
+    "contactDate": 1421951544277,
+    "title": "Uzice, Ivolaz, Bilja i Dalibor, svadba",
+    "pk": 422,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1422038176898,
+    "end": 1422038176898,
+    "contactDate": 1421951776914,
+    "title": "Pozega, restoran Potkovica",
+    "frontpage": true,
+    "confirmed": true,
+    "pk": 423,
+    "explanation": null
+  },
+  {
+    "start": 1431466706470,
+    "end": 1431466706470,
+    "contactDate": 1422398306486,
+    "title": "Uzice, Ivolaz, Jelena i Milos, svadba",
+    "confirmed": true,
+    "pk": 424,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1445690419027,
+    "end": 1445690419027,
+    "contactDate": 1422538819046,
+    "title": "Pozega, Grand sala, Marija i Zeljko, svadba",
+    "pk": 427,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1440955027539,
+    "end": 1440955027539,
+    "contactDate": 1422987427556,
+    "title": "Cajetina, Sala Mladost, Danijela i Srdjan, svadba",
+    "pk": 428,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1438504582419,
+    "end": 1438504582419,
+    "contactDate": 1423474582439,
+    "title": "Uzice, Sala kod Rasa, Jelena i Goran, svadba",
+    "confirmed": true,
+    "pk": 429,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1441546202138,
+    "end": 1441546202138,
+    "contactDate": 1424097002153,
+    "title": "Cajetina, sala Mladost,svadba, Ivana i Stefan",
+    "pk": 430,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1429449921427,
+    "end": 1429449921427,
+    "contactDate": 1423923921445,
+    "confirmed": true,
+    "title": "Pozega, Sala Rubin, Vanja i Goran, svadba",
+    "pk": 431,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1442748367445,
+    "end": 1442748367445,
+    "contactDate": 1424089567463,
+    "title": "Uzice, Sala kod Rasa, Maja i Miloje, svadba",
+    "pk": 432,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1425720513098,
+    "end": 1425720513098,
+    "contactDate": 1424338113123,
+    "title": "Uzice, klub Skala",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 433,
+    "explanation": null
+  },
+  {
+    "start": 1438077977836,
+    "end": 1438077977836,
+    "contactDate": 1424343977852,
+    "title": "Uzice, restoran Plaza, Milicin prvi rodjendan",
+    "pk": 434,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1432924694549,
+    "end": 1432924694549,
+    "contactDate": 1424461094564,
+    "title": "Pozega, Muzicki klub, rodjendan kod malog Vuka",
+    "pk": 436,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1428173142405,
+    "end": 1428173142405,
+    "contactDate": 1424461542421,
+    "title": "Bela Zemlja, Sala Simsic, rodjendan",
+    "pk": 437,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1424548128090,
+    "end": 1424548128090,
+    "contactDate": 1424461728107,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Lucani, Klub Mystic",
+    "pk": 438,
+    "explanation": null
+  },
+  {
+    "start": 1424602525264,
+    "end": 1424602525279,
+    "contactDate": 1424602525283,
+    "title": "Rezervisan termin",
+    "pk": 439,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1445193453085,
+    "end": 1445193453085,
+    "contactDate": 1424720253104,
+    "title": "Uzice, Sala kod Rasa, Nevena i Prvoslav, svadba",
+    "confirmed": true,
+    "pk": 440,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1444571876304,
+    "end": 1444571876304,
+    "contactDate": 1424789876320,
+    "title": "Uzice, Sala kod Rasa, Marija i Dragoljub, svadba",
+    "pk": 442,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1436725492480,
+    "end": 1436725492480,
+    "contactDate": 1425410692484,
+    "title": "Uzice, Sala kod Rasa, Ivana i Nenad, svadba",
+    "confirmed": true,
+    "pk": 443,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1425679719716,
+    "end": 1425679719716,
+    "contactDate": 1425420519737,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Pozega, klub S cafe",
+    "pk": 444,
+    "explanation": null
+  },
+  {
+    "start": 1426282311285,
+    "end": 1426368711285,
+    "contactDate": 1426023111324,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Pozega, klub S kafe",
+    "pk": 445,
+    "explanation": null
+  },
+  {
+    "start": 1440264408113,
+    "end": 1440264408113,
+    "contactDate": 1426616808138,
+    "title": "Uzice, hotel Zlatibor,Marijana i Luka,  svadba",
+    "pk": 446,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1443995406600,
+    "end": 1443995406600,
+    "contactDate": 1426719006634,
+    "title": "Karan, Svecana sala, Vesna i Branko, svadba",
+    "pk": 447,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1446973860793,
+    "end": 1446973860793,
+    "contactDate": 1426929060810,
+    "title": "Uzice, Sala kod Rasa, Aleksandra i Zeljko, svadba",
+    "pk": 448,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1433420871653,
+    "end": 1433420871653,
+    "contactDate": 1427462871671,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Uzice, hotel Zlatibor, VPTS - Apsolventsko vece",
+    "pk": 449,
+    "explanation": null
+  },
+  {
+    "start": 1438967747615,
+    "end": 1438967747615,
+    "contactDate": 1428340547633,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub, 18. rodjendan-porodica Pantic",
+    "pk": 451,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1432575683771,
+    "end": 1432575683771,
+    "contactDate": 1428342083789,
+    "confirmed": true,
+    "frontpage": false,
+    "title": "Pozega, repriza kod Stojanovica",
+    "pk": 452,
+    "explanation": null
+  },
+  {
+    "start": 1442061235297,
+    "end": 1442061235297,
+    "contactDate": 1429706035316,
+    "title": "Pozega, sala Rubin, Katarina i Milan, svadba",
+    "pk": 453,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1439143873785,
+    "end": 1439143873785,
+    "contactDate": 1430244673802,
+    "title": "Uzice,Ivolaz, Marija i Milomir, svadba",
+    "pk": 454,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1437057014209,
+    "end": 1437057014209,
+    "contactDate": 1430317814228,
+    "confirmed": true,
+    "title": "Uzice, Ivolaz, Sanja i Jovica, svadba",
+    "pk": 455,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1445805019579,
+    "end": 1445805019579,
+    "contactDate": 1430681419601,
+    "title": "Pozega, Rubin, Ana i Rade, svadba",
+    "pk": 456,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1435351865869,
+    "end": 1435351865869,
+    "contactDate": 1431377465888,
+    "title": "Uzice, sala kod Roje, 18. rodjendan kod Tamare",
+    "confirmed": true,
+    "pk": 457,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1432635031027,
+    "end": 1432635031027,
+    "contactDate": 1431425431046,
+    "confirmed": true,
+    "title": "Pozega,Muzicki klub, Tehnicka skola-matursko vece",
+    "pk": 459,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1433238320388,
+    "end": 1433238320388,
+    "contactDate": 1431683120412,
+    "confirmed": true,
+    "title": "Uzice, hotel Zlatibor,Tehnicka skola, matura",
+    "pk": 461,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1433154872723,
+    "end": 1433154872723,
+    "contactDate": 1431686072740,
+    "title": "Pozega, Muzicki klub, Drugarsko vece",
+    "confirmed": true,
+    "pk": 462,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1433328168878,
+    "end": 1433328168878,
+    "contactDate": 1431686568913,
+    "title": "Pozega, Muzicki klub, Drugarsko vece",
+    "confirmed": true,
+    "pk": 463,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1433795347080,
+    "end": 1433795347080,
+    "contactDate": 1431980947084,
+    "title": "Uzice,hotel Zlatibor, drugarsko vece",
+    "pk": 464,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1437434810186,
+    "end": 1437434810186,
+    "contactDate": 1432942010204,
+    "title": "Uzice, Ivolaz, Milica i Danko, svadba",
+    "pk": 465,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1436031993854,
+    "end": 1436031993854,
+    "contactDate": 1433353593864,
+    "title": "Arandjelovac, restoran Simeun, Kristina punoletstvo",
+    "pk": 466,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1444313479191,
+    "end": 1444313479191,
+    "contactDate": 1433859079210,
+    "title": "Uzice, sala Ivolaz, Branka i Aleksandar, svadba",
+    "pk": 467,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1446407736237,
+    "end": 1446407736237,
+    "contactDate": 1434048936256,
+    "title": "Pozega, Grand sala, Mirjana i Aleksandar",
+    "pk": 468,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1443707245354,
+    "end": 1443707245354,
+    "contactDate": 1434462445373,
+    "confirmed": true,
+    "title": "Pozega,sala Grand2,rodjendan kod porodice Lazarevic",
+    "pk": 470,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1463236576034,
+    "end": 1463236576034,
+    "contactDate": 1438007776054,
+    "title": "Kraljevo, restoran Gasper, Olivera i Aleksandar, svadba",
+    "pk": 471,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1447577455051,
+    "end": 1447577455051,
+    "contactDate": 1438761055069,
+    "title": "Uzice, Ivolaz, Marija i Nemanja, svadba",
+    "pk": 473,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1448190090315,
+    "end": 1448190090315,
+    "contactDate": 1438941690334,
+    "title": "Obrenovac, hotel Svetionik, Marija i Ivan, svadba",
+    "pk": 474,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1439225716357,
+    "end": 1439225716371,
+    "contactDate": 1439225716377,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Zlatibor, Kraljev trg",
+    "pk": 475,
+    "explanation": null
+  },
+  {
+    "start": 1444423579554,
+    "end": 1444423579554,
+    "contactDate": 1439325979573,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub, rodjendan kod porodice Micovic",
+    "pk": 476,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1465678408603,
+    "end": 1465678408603,
+    "contactDate": 1439326408623,
+    "confirmed": true,
+    "title": "Beograd, restoran Lux, Milos i Milica, svadba",
+    "pk": 477,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1463864272339,
+    "end": 1463864272339,
+    "contactDate": 1439326672358,
+    "title": "Uzice, sala kod Roje, Dejana i Zlatko, svadba",
+    "pk": 478,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1447494324684,
+    "end": 1447494324684,
+    "contactDate": 1439455524703,
+    "title": "Ljubovija, Markovi konaci, Ivana i Milos,  svadba",
+    "pk": 479,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1465030458557,
+    "end": 1465030458557,
+    "contactDate": 1439456058577,
+    "confirmed": true,
+    "title": "Pozega, sala Rubin, svadba",
+    "pk": 480,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1464426540091,
+    "end": 1464426540091,
+    "contactDate": 1439456940111,
+    "title": "Uzice, Ivolaz, Milica i Marko, svadba",
+    "pk": 481,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1446325144269,
+    "end": 1446325144269,
+    "contactDate": 1439755144290,
+    "title": "Pozega, sala Rubin, MIra i Milan, svadba",
+    "pk": 482,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1444976360151,
+    "end": 1444976360151,
+    "contactDate": 1440137960170,
+    "title": "Ivanjica, restoran Basta, svadba, Marija i Nenad",
+    "confirmed": true,
+    "pk": 483,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1440407463015,
+    "end": 1440407463028,
+    "contactDate": 1440407463034,
+    "title": "Uzice, hotel Zlatibor, Ana i Nenad, svadba",
+    "pk": 484,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1446113887704,
+    "end": 1446113887704,
+    "contactDate": 1440407887723,
+    "title": "Uzice, hotel Zlatibor, Ana i Nenad, svadba",
+    "pk": 485,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1463932709977,
+    "end": 1463932709977,
+    "contactDate": 1441382309998,
+    "confirmed": true,
+    "title": "Arilje, sala Radost, Mira i Zoran, svadba",
+    "pk": 486,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1446461645469,
+    "end": 1446461645469,
+    "contactDate": 1441619645488,
+    "confirmed": true,
+    "title": "Bela Zemlja, nastavak veselja kod porodice Knezevic",
+    "pk": 487,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1472893819766,
+    "end": 1472893819766,
+    "contactDate": 1442740219786,
+    "confirmed": true,
+    "title": "Arilje, sala Radost, Nevena i Bojan, svadba",
+    "pk": 488,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1474182970311,
+    "end": 1474182970311,
+    "contactDate": 1443424570331,
+    "title": "Uzice, Ivolaz, Vesna i Miso, svadba",
+    "pk": 489,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1473019459216,
+    "end": 1473019459216,
+    "contactDate": 1443643459236,
+    "title": "Uzice, Ivolaz, Marija i Nikola, svadba",
+    "pk": 492,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1447350678573,
+    "end": 1447350678573,
+    "contactDate": 1443804678593,
+    "title": "Cajetina, sala Mladost, Jagoda i Velibor, svadba",
+    "pk": 493,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1464255062889,
+    "end": 1464255062889,
+    "contactDate": 1444123862909,
+    "title": "Uzice, Ivolaz, Maja i Petar, svadba",
+    "pk": 494,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1464547415064,
+    "end": 1464547415064,
+    "contactDate": 1444243415082,
+    "title": "Cajetina, sala Mladost,svadba",
+    "pk": 495,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1469900272701,
+    "end": 1469900272701,
+    "contactDate": 1444498672722,
+    "confirmed": true,
+    "title": "Ivanjica, hotel Park, svadba, Vule Aleksic i Paulina Cojic",
+    "pk": 496,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1445942754029,
+    "end": 1445942754029,
+    "contactDate": 1444643154049,
+    "title": "Pozega, Grand sala 2, proslava prevoznika",
+    "confirmed": true,
+    "pk": 497,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1456527855324,
+    "end": 1456527855324,
+    "contactDate": 1446419055345,
+    "title": "Kosjeric, hotel Skrapez, Zivkovici-porodicno slavlje",
+    "pk": 498,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1475317151523,
+    "end": 1475317151523,
+    "contactDate": 1446895151543,
+    "confirmed": true,
+    "title": "Arandjelovac, hotel Kruna, svadba, Marija i Toni",
+    "pk": 499,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1466371704948,
+    "end": 1466371704948,
+    "contactDate": 1447021704969,
+    "confirmed": true,
+    "title": "Uzice, Ivolaz, Vladan i Jelica, svadba",
+    "pk": 500,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1456266870381,
+    "end": 1456266870381,
+    "contactDate": 1447022070403,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub, rodjendan",
+    "pk": 501,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1455403202549,
+    "end": 1455403202549,
+    "contactDate": 1447022402574,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub, rodjendan kod porodice Jovanovic",
+    "pk": 502,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1449316271578,
+    "end": 1449316271578,
+    "contactDate": 1447069871598,
+    "confirmed": true,
+    "title": "Uzice, restoran Dva cveta, rodjendan",
+    "pk": 503,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1462618959076,
+    "end": 1462618959076,
+    "contactDate": 1447070559095,
+    "title": "Zlatibor, Zlatni bor, Ana i Vlade, svadba",
+    "pk": 504,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1449403539710,
+    "end": 1449403539710,
+    "contactDate": 1447070739730,
+    "confirmed": true,
+    "title": "Uzice, restoran Plaza, rodjendan",
+    "pk": 505,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1474117483413,
+    "end": 1474117483413,
+    "contactDate": 1447077883433,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub, Aleksandra i Petar, svadba",
+    "pk": 506,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1457794352905,
+    "end": 1457794352905,
+    "contactDate": 1447253552925,
+    "confirmed": true,
+    "title": "Pozega, sala Rubin, Nada i Ivan",
+    "pk": 507,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1451129907784,
+    "end": 1451129907784,
+    "contactDate": 1447587507803,
+    "confirmed": true,
+    "title": "Ivanjica, hotel Park, punoletstvo Jovane Milosevic",
+    "pk": 508,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1454757375844,
+    "end": 1454757375844,
+    "contactDate": 1448450175864,
+    "title": "Cajetina, sala Mlladost, rodjendan kod porodice Dabic",
+    "confirmed": true,
+    "pk": 509,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1453572957735,
+    "end": 1453572957735,
+    "contactDate": 1448907357757,
+    "title": "Uzice, hotel Zlatibor, svadba",
+    "pk": 511,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1470573973534,
+    "end": 1470573973534,
+    "contactDate": 1449150373552,
+    "title": "Pozega, Muzicki klub, porodica Slovic, svadbeno veselje",
+    "confirmed": true,
+    "pk": 512,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1449919128294,
+    "end": 1449919128294,
+    "contactDate": 1449314328315,
+    "title": "Zlatibor, restoran Jezero, proslava",
+    "confirmed": true,
+    "pk": 513,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1455560746937,
+    "end": 1455560746937,
+    "contactDate": 1450203946960,
+    "title": "Uzice, Ivolaz, svadba",
+    "pk": 514,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1451579910265,
+    "end": 1451579910265,
+    "contactDate": 1450715910284,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "LJubovija, klub Casttle, Docek Nove godine",
+    "pk": 515,
+    "explanation": null
+  },
+  {
+    "start": 1451666539112,
+    "end": 1451752939112,
+    "contactDate": 1450716139131,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Ljubovija, klub Casttle",
+    "pk": 516,
+    "explanation": null
+  },
+  {
+    "start": 1465115855515,
+    "end": 1465115855515,
+    "contactDate": 1453714655538,
+    "title": "Cajetina, sala Mladost,Vikica i Aleksandar, svadba",
+    "pk": 517,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1450990812732,
+    "end": 1450990812732,
+    "contactDate": 1450818012752,
+    "confirmed": true,
+    "frontpage": false,
+    "title": "Koceljeva, proslava",
+    "pk": 518,
+    "explanation": null
+  },
+  {
+    "start": 1474713790876,
+    "end": 1474713790876,
+    "contactDate": 1451216590894,
+    "title": "Cacak, Dan i noc, Ana i Vlade, svadba",
+    "confirmed": true,
+    "pk": 519,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1452718028493,
+    "end": 1452718028493,
+    "contactDate": 1452113228516,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Pozega, S Caffe",
+    "pk": 520,
+    "explanation": null
+  },
+  {
+    "start": 1452978242281,
+    "end": 1452978242281,
+    "contactDate": 1452114242305,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Pozega, S caffe",
+    "pk": 521,
+    "explanation": null
+  },
+  {
+    "start": 1462696322341,
+    "end": 1462696322341,
+    "contactDate": 1452245522362,
+    "title": "Uzice, Ivolaz,  porodica Jevdjevic",
+    "pk": 522,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1466861621310,
+    "end": 1466948021310,
+    "contactDate": 1452263621330,
+    "title": "Kraljevo, sala Bristol, Milica i Ivan, svadba",
+    "confirmed": true,
+    "pk": 523,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1455458502384,
+    "end": 1455458502384,
+    "contactDate": 1452520902405,
+    "title": "Pozega, Muzicki klub, porodica Gavrilovic, punoletstvo",
+    "confirmed": true,
+    "pk": 524,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1452521231307,
+    "end": 1452521231321,
+    "contactDate": 1452521231329,
+    "title": "Pozega, Muzicki klub, Jelena i Ivan, svadba",
+    "confirmed": true,
+    "pk": 525,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1457299068777,
+    "end": 1457299068777,
+    "contactDate": 1452547068804,
+    "confirmed": true,
+    "title": "Arandjelovac, restoran Rujna zora, porodica Timotijevic, punoletstvo",
+    "pk": 526,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1473539624162,
+    "end": 1473539624162,
+    "contactDate": 1452548024182,
+    "title": "Pozega, Muzicki klub, Jelena i Ivan, svadba",
+    "confirmed": true,
+    "pk": 527,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1475414549666,
+    "end": 1475414549666,
+    "contactDate": 1453299749687,
+    "title": "Arilje, sala Radost, Dragana i Igor,svadba",
+    "pk": 528,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1463064378457,
+    "end": 1463064378457,
+    "contactDate": 1453218378477,
+    "title": "Uzice, rodjendan",
+    "confirmed": true,
+    "pk": 529,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1463496696224,
+    "end": 1463496696224,
+    "contactDate": 1453218696245,
+    "confirmed": true,
+    "title": "Uzice, hotel Zlatibor, rodjendan",
+    "pk": 530,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1453715128356,
+    "end": 1454060728356,
+    "contactDate": 1453283128378,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Zlatibor, hotel Palisad, seminar",
+    "pk": 532,
+    "explanation": null
+  },
+  {
+    "start": 1453457694425,
+    "end": 1453457694425,
+    "contactDate": 1453284894446,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Pozega, S caffe",
+    "pk": 533,
+    "explanation": null
+  },
+  {
+    "start": 1472684566136,
+    "end": 1472684566136,
+    "contactDate": 1453507366157,
+    "title": "Pozega, Muzicki klub, Vesna i Nikola, svadba",
+    "confirmed": true,
+    "pk": 534,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1453633072565,
+    "end": 1453633072579,
+    "contactDate": 1453633072586,
+    "title": "Pozega, sala Rubin, Dusica i Aleksandar",
+    "pk": 535,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1477146268090,
+    "end": 1477146268090,
+    "contactDate": 1453649068112,
+    "title": "Pozega, sala Rubin, Dusica i Aleksandar, svadba",
+    "confirmed": true,
+    "pk": 536,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1474815450206,
+    "end": 1474815450206,
+    "contactDate": 1453737450229,
+    "title": "Arilje, sala Radost, Dragana i Goran, svadba",
+    "confirmed": true,
+    "pk": 538,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1458381122322,
+    "end": 1458381122322,
+    "contactDate": 1454233922344,
+    "title": "Cacak, hotel Morava, Ana i Marko, svadba",
+    "pk": 539,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1457892716707,
+    "end": 1457892716707,
+    "contactDate": 1454004716729,
+    "title": "Mackat, kafana kod Baja, Andrijin prvi rodjendan",
+    "confirmed": true,
+    "pk": 540,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1462441595777,
+    "end": 1462441595777,
+    "contactDate": 1454064395801,
+    "title": "Uzice, Ivolaz,Snezana i Srdjan, svadba",
+    "pk": 541,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1464114673506,
+    "end": 1464114673506,
+    "contactDate": 1454182273527,
+    "title": "Uzice, Ivolaz, Branka i Dusan, svadba",
+    "confirmed": true,
+    "pk": 542,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1469300148323,
+    "end": 1469300148323,
+    "contactDate": 1454183748345,
+    "title": "Uzice, Ivolaz, porodica Maric, svadbeno veselje",
+    "pk": 543,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1472405339044,
+    "end": 1472405339044,
+    "contactDate": 1454351339065,
+    "title": "Uzice, Ivolaz, Ivana i Dejan, svadba",
+    "confirmed": true,
+    "pk": 544,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1463315231246,
+    "end": 1463315231246,
+    "contactDate": 1454419631268,
+    "confirmed": true,
+    "title": "Priboj, restoran Fap, svadba",
+    "pk": 546,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1460814645207,
+    "end": 1460814645207,
+    "contactDate": 1454424645228,
+    "title": "Kosjeric, hotel Olimpik, punoletstvo kod Djordja",
+    "pk": 547,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1472310502287,
+    "end": 1472310502287,
+    "contactDate": 1454429302298,
+    "title": "Uzice, restoran Plaza, punoletstvo kod Nevene",
+    "confirmed": true,
+    "pk": 548,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1476652323710,
+    "end": 1476652323710,
+    "contactDate": 1454451123731,
+    "title": "Uzice, Ivolaz, Bojana i Marko, svadba",
+    "pk": 549,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1454489463905,
+    "end": 1454489463920,
+    "contactDate": 1454489463926,
+    "title": "Uzice, sala Baceta, Strahinjin rodjendan",
+    "confirmed": true,
+    "pk": 550,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1454848329288,
+    "end": 1454848329288,
+    "contactDate": 1454502729308,
+    "confirmed": true,
+    "title": "Uzice, Baceta, Strahinjin rodjendan",
+    "pk": 551,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1466261932925,
+    "end": 1466261932925,
+    "contactDate": 1454687932946,
+    "title": "Uzice, sala Roja, Nikolino punoletstvo",
+    "confirmed": true,
+    "pk": 552,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1465737812386,
+    "end": 1465737812386,
+    "contactDate": 1454855012408,
+    "title": "Ivanjica, hotel Park, svadba",
+    "pk": 553,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1469361219680,
+    "end": 1469361219680,
+    "contactDate": 1456664019702,
+    "title": "Uzice, sala kod Roje, Ivana i Marko, svadba",
+    "pk": 556,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1469920328635,
+    "end": 1469920328635,
+    "contactDate": 1456791128658,
+    "title": "Uzice, Ivolaz, Slavica i Jovan, svadba",
+    "pk": 557,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1476005856754,
+    "end": 1476005856754,
+    "contactDate": 1459071456754,
+    "title": "Uzice, Ivolaz, Marija i Nebojsa, svadba",
+    "pk": 558,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1471112894669,
+    "end": 1471112894669,
+    "contactDate": 1459276094674,
+    "confirmed": true,
+    "title": "Visegrad, Vilina vlas, Aleksandra i Darko, svadba",
+    "pk": 559,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1464381592805,
+    "end": 1464381592805,
+    "contactDate": 1459283992816,
+    "title": "Zlatibor, hotel Palisad",
+    "confirmed": true,
+    "pk": 560,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1460277837822,
+    "end": 1460277837822,
+    "contactDate": 1459759437830,
+    "confirmed": true,
+    "title": "Uzice, Nasa kuca, rodjendan",
+    "pk": 561,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1464724828807,
+    "end": 1464724828807,
+    "contactDate": 1459886428814,
+    "title": "Uzice, Gril - hotel Zlatibor, apsolventsko vece",
+    "confirmed": true,
+    "pk": 562,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1460118495087,
+    "end": 1460118495093,
+    "contactDate": 1460118495094,
+    "title": "Pozega, Grand sala, svadba",
+    "pk": 563,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1470486687663,
+    "end": 1470486687663,
+    "contactDate": 1460118687671,
+    "title": "Pozega, Grand sala, svadba",
+    "pk": 564,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1461406329564,
+    "end": 1461406329564,
+    "contactDate": 1460455929571,
+    "title": "Zlatibor, hotel Palisad, proslava",
+    "confirmed": true,
+    "pk": 565,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1461320353259,
+    "end": 1461320353259,
+    "contactDate": 1460456353275,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Ivanjica, klub De Gaulle",
+    "pk": 566,
+    "explanation": null
+  },
+  {
+    "start": 1473950208737,
+    "end": 1473950208737,
+    "contactDate": 1461335808744,
+    "title": "Uzice, Ivolaz, svadba",
+    "pk": 567,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1462106297747,
+    "end": 1462106297747,
+    "contactDate": 1461674297757,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Ivanjica, klub De Gaulle",
+    "pk": 568,
+    "explanation": null
+  },
+  {
+    "start": 1463658663351,
+    "end": 1463658663351,
+    "contactDate": 1462967463358,
+    "title": "Uzice, restoran Cira, rodjendan",
+    "confirmed": true,
+    "pk": 570,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1472508663376,
+    "end": 1472508663376,
+    "contactDate": 1463177463384,
+    "title": "Uzice, sala Roja, porodica Basurovic, svadba",
+    "pk": 571,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1464628441598,
+    "end": 1464628441598,
+    "contactDate": 1463418841605,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub, matura",
+    "pk": 572,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1477778228879,
+    "end": 1477778228879,
+    "contactDate": 1463522228894,
+    "title": "Cajetina, sala Mladost, svadba",
+    "pk": 573,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1465233996671,
+    "end": 1465320396671,
+    "contactDate": 1464801996678,
+    "confirmed": true,
+    "title": "Pozega, Muzicki klub, mala maturica",
+    "pk": 574,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1466184624728,
+    "end": 1466184624728,
+    "contactDate": 1464802224735,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Ivanjica, klub, De gaulle",
+    "pk": 575,
+    "explanation": null
+  },
+  {
+    "start": 1475933378539,
+    "end": 1475933378539,
+    "contactDate": 1465478978539,
+    "title": "Ivanjica, restoran Basta, Jasmina i Zoran, svadba",
+    "pk": 576,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1468693229885,
+    "end": 1468693229885,
+    "contactDate": 1465842029901,
+    "confirmed": true,
+    "title": "Zlatibor, restoran Rujno, rodjendan",
+    "pk": 577,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1475272545845,
+    "end": 1475272545845,
+    "contactDate": 1468101345852,
+    "title": "Ivanjica, hotel Park, svadba",
+    "confirmed": true,
+    "pk": 578,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1477259933976,
+    "end": 1477259933976,
+    "contactDate": 1468101533976,
+    "title": "Uzice, hotel Zlatibor, Danijela i Danilo, svadba",
+    "pk": 579,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1478361043408,
+    "end": 1478361043408,
+    "contactDate": 1470408643415,
+    "title": "Ljubovija, Markovi konaci, Slavica i Milovan, svadba",
+    "confirmed": true,
+    "pk": 582,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1478437847612,
+    "end": 1478437847612,
+    "contactDate": 1471263047612,
+    "confirmed": true,
+    "title": "Uzice, Ivolaz, Katarina i Bojan, svadba",
+    "pk": 583,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1479589117018,
+    "end": 1479589117018,
+    "contactDate": 1471463917025,
+    "title": "Obrenovac, Dijamant, Ivana i Nemanja, svadba",
+    "pk": 584,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1477825953777,
+    "end": 1477825953777,
+    "contactDate": 1472206353784,
+    "title": "Uzice, Remontni centar, svadba",
+    "pk": 585,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1478991361796,
+    "end": 1478991361796,
+    "contactDate": 1472248561803,
+    "title": "Beograd, restoran Vidovdan, Sanja i Vladimir, svadba",
+    "pk": 586,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1485611979187,
+    "end": 1485611979187,
+    "contactDate": 1473166779187,
+    "title": "Uzice, Remontni centar, svadba",
+    "pk": 587,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1488022867390,
+    "end": 1488022867390,
+    "contactDate": 1473590467397,
+    "confirmed": true,
+    "title": "Visegrad, hotel Vilina vlas, svadba",
+    "pk": 588,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1480168283923,
+    "end": 1480168283923,
+    "contactDate": 1474289483928,
+    "title": "Uzice, Remontni centar, svadba",
+    "pk": 590,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1476994476120,
+    "end": 1476994476120,
+    "contactDate": 1474488876120,
+    "confirmed": true,
+    "title": "Pozega, sala Rubin, Sanja i Dusan, svadba",
+    "pk": 591,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1479667144630,
+    "end": 1479667144630,
+    "contactDate": 1475602744630,
+    "title": "Arilje, sala Radost, Danijela i Milovan, svadba",
+    "pk": 594,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1476440422823,
+    "end": 1476440422823,
+    "contactDate": 1475749222838,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Ivanjica, De gaulle, klub",
+    "pk": 595,
+    "explanation": null
+  },
+  {
+    "start": 1497210165941,
+    "end": 1497210165941,
+    "contactDate": 1476560565947,
+    "title": "Uzice, sala Hedonija, svadba",
+    "pk": 597,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1483192185383,
+    "end": 1483278585383,
+    "contactDate": 1477572585390,
+    "title": "Tara, hotel Omorika, Docek Nove godine ",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 599,
+    "explanation": null
+  },
+  {
+    "start": 1483897408499,
+    "end": 1483897408499,
+    "contactDate": 1478281408509,
+    "title": "Hotel Zlatiborska noc,Teodorin 1.rodjendan",
+    "confirmed": true,
+    "pk": 602,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1492860803046,
+    "end": 1492860803046,
+    "contactDate": 1478781203054,
+    "title": "Pozega, sala Grand , Prvi rodjendan kod Dunje",
+    "pk": 603,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1504347501667,
+    "end": 1504347501667,
+    "contactDate": 1479640701675,
+    "title": "Kosjeric, hotel Olimpik,Nada i Nikola, svadba",
+    "pk": 604,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1480765818740,
+    "end": 1480765818740,
+    "contactDate": 1479729018747,
+    "title": "Tara, Omorika, proslava",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 605,
+    "explanation": null
+  },
+  {
+    "start": 1494185212126,
+    "end": 1494185212126,
+    "contactDate": 1479760012142,
+    "title": "Pozega, Grand sala, Aleksandra i Nemanja, svadba",
+    "pk": 606,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1481377841239,
+    "end": 1481377841239,
+    "contactDate": 1479822641246,
+    "confirmed": true,
+    "title": "Priboj, Fapov restoran, Teodora i Kenan, svadba",
+    "pk": 607,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1496613254149,
+    "end": 1496613254149,
+    "contactDate": 1480287254149,
+    "confirmed": true,
+    "title": "Uzice, sala kod Rasa, Milica i Darko, svadba",
+    "pk": 608,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1484397671632,
+    "end": 1484397671632,
+    "contactDate": 1480336871648,
+    "title": "Cajetina, sala Mladost, Prvi rodjendan",
+    "pk": 609,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1482608604599,
+    "end": 1482608604599,
+    "contactDate": 1480880604608,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Ivanjica, Prezident, proslava",
+    "pk": 610,
+    "explanation": null
+  },
+  {
+    "start": 1502535215418,
+    "end": 1502535215418,
+    "contactDate": 1481630015426,
+    "title": "Arilje, sala Radost, Suzana i Aleksandar, svadba",
+    "pk": 611,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1484487149995,
+    "end": 1484487149995,
+    "contactDate": 1481981550002,
+    "title": "Priboj, sala Palma, punoletstvo",
+    "pk": 612,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1482620587264,
+    "end": 1482620587264,
+    "contactDate": 1482534187297,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Ivanjica, Prezident, proslava",
+    "pk": 614,
+    "explanation": null
+  },
+  {
+    "start": 1482784115208,
+    "end": 1482784115214,
+    "contactDate": 1482784115215,
+    "title": "Priboj, svadba",
+    "pk": 615,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1495311031528,
+    "end": 1495311031528,
+    "contactDate": 1482959431535,
+    "title": "Priboj, sala Palma, Danka i Danijel, svadba",
+    "confirmed": true,
+    "pk": 616,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1496521173755,
+    "end": 1496521173755,
+    "contactDate": 1482959973770,
+    "title": "Marija i Goran, svadba, Ognjiste, Nova Varos",
+    "pk": 617,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1497126519912,
+    "end": 1497126519912,
+    "contactDate": 1482960519917,
+    "title": "Beograd, AS Lazic, Marina i Ivan, svadba",
+    "confirmed": true,
+    "pk": 618,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1495918092208,
+    "end": 1495918092208,
+    "contactDate": 1482961692212,
+    "title": "Arilje, sala Decani, Bojana i Marko, svadba",
+    "pk": 619,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1493661099688,
+    "end": 1493661099688,
+    "contactDate": 1483296699694,
+    "title": "Prijepolje, hotel Park, svadba",
+    "pk": 620,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1493540568903,
+    "end": 1493540568903,
+    "contactDate": 1484126568911,
+    "confirmed": true,
+    "title": "Milica i Nikola, svadba, restoran Ognjiste, Nova Varos",
+    "explanation": null,
+    "pk": 621,
+    "frontpage": null
+  },
+  {
+    "start": 1490276942187,
+    "end": 1490276942187,
+    "contactDate": 1484660942193,
+    "confirmed": true,
+    "title": "Rodjendan, Pozega, Muzicki klub",
+    "pk": 622,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1505558772652,
+    "end": 1505558772652,
+    "contactDate": 1485344772658,
+    "title": "Marija i Ivan, sala Petica,svadba, Priboj",
+    "pk": 624,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1494685913997,
+    "end": 1494685913997,
+    "contactDate": 1485358314004,
+    "title": "Bojana i Ivica, svadba, sala Hedonija, Uzice",
+    "pk": 625,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1498909890004,
+    "end": 1498909890004,
+    "contactDate": 1485521490012,
+    "title": "Punoletstvo, Uzice, Kineski restoran",
+    "confirmed": true,
+    "pk": 626,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1508092966732,
+    "end": 1508092966732,
+    "contactDate": 1485978166743,
+    "confirmed": true,
+    "title": "Dragana i Dejan, svadba, sala Hedonija, Uzice",
+    "pk": 627,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1495392274016,
+    "end": 1495392274016,
+    "contactDate": 1488224674023,
+    "confirmed": true,
+    "title": "Uzice, sala kod Bacete, rodjendan",
+    "pk": 630,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1500763815816,
+    "end": 1500763815816,
+    "contactDate": 1488239415823,
+    "title": "Danka i Nikola, svadba, Koloseum, Bratunac",
+    "pk": 631,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1501330014750,
+    "end": 1501330014750,
+    "contactDate": 1488892014754,
+    "confirmed": true,
+    "title": "Aleksandra i Mladen, sv.sala Kraljica, Uzice",
+    "pk": 632,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1503735231481,
+    "end": 1503735231481,
+    "contactDate": 1488964431485,
+    "title": "Ivana i Milos, svadba, Talija, Bajina Basta",
+    "pk": 633,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1501785696961,
+    "end": 1501785696961,
+    "contactDate": 1489520496967,
+    "confirmed": true,
+    "title": "Cacak, hotel Morava, porodica Todorovic, svadbeno veselje",
+    "pk": 634,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1508604739396,
+    "end": 1508604739396,
+    "contactDate": 1490118739402,
+    "title": "Danijela i Sasa, svadba, hotel Park, Ivanjica",
+    "pk": 635,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1497729550781,
+    "end": 1497729550781,
+    "contactDate": 1490216350788,
+    "title": "Uzice, Kineski restoran, Miroslav-punoletstvo",
+    "pk": 636,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1505054718244,
+    "end": 1505054718244,
+    "contactDate": 1490712318250,
+    "title": "Bojana i Marko, svadba, Uzice, Ivolaz",
+    "pk": 637,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1493480543430,
+    "end": 1493480543430,
+    "contactDate": 1490974943436,
+    "title": "Teodora i Aleksandar, svadba, sala Kraljica, Uzice",
+    "pk": 638,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1500757128178,
+    "end": 1500757128178,
+    "contactDate": 1490993928184,
+    "title": "Slavica i Njegos, svadba, Andricev konak, Visegrad",
+    "pk": 639,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1501964816899,
+    "end": 1501964816899,
+    "contactDate": 1491337616908,
+    "confirmed": true,
+    "title": "Tanja i Borko, svadba, Ivolaz, Uzice",
+    "pk": 640,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1509187498015,
+    "end": 1509187498015,
+    "contactDate": 1494240298021,
+    "title": "Aleksandra i Dejan, svadba, Ivolaz, Uzice",
+    "pk": 643,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1508692080578,
+    "end": 1508692080578,
+    "contactDate": 1494349680584,
+    "title": "Kraljevo, Matrimonija, svadba, Jelena i Aleksandar",
+    "pk": 644,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1504431105781,
+    "end": 1504431105781,
+    "contactDate": 1494495105798,
+    "confirmed": true,
+    "title": "Aleksandra i Blagoje, svadba, Grand, Pozega",
+    "pk": 645,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1506763808096,
+    "end": 1506763808096,
+    "contactDate": 1494927008103,
+    "title": "Katarina i Dusan, svadba, hotel Drina, Bajina Basta",
+    "pk": 647,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1497778931739,
+    "end": 1497865331739,
+    "contactDate": 1494927731747,
+    "confirmed": true,
+    "title": "Pozega, Maturske veceri",
+    "pk": 648,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1504816265656,
+    "end": 1504816265656,
+    "contactDate": 1496176265666,
+    "confirmed": true,
+    "title": "Sandra i Igor, svadba, Cajetina, sala Mladost",
+    "pk": 649,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1507368224094,
+    "end": 1507368224094,
+    "contactDate": 1496395424103,
+    "title": "Marina i Nemanja, svadba, Prijepolje",
+    "pk": 650,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1500202174016,
+    "end": 1500202174016,
+    "contactDate": 1496918974025,
+    "confirmed": true,
+    "title": "Branka i Dragoje, svadba, Ognjiste, Nova Varos",
+    "pk": 651,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1502643692943,
+    "end": 1502643692943,
+    "contactDate": 1497286892949,
+    "title": "Ivana i Stefan, svadba, hotel Drina, Bajina Basta",
+    "pk": 652,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1503953475138,
+    "end": 1503953475138,
+    "contactDate": 1497473475160,
+    "confirmed": true,
+    "title": "Nikolija i Tomislav, rodjendan, Prezident, Ivanjica",
+    "pk": 653,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1528017668569,
+    "end": 1528017668569,
+    "contactDate": 1497950468576,
+    "title": "Marija i Vuk, svadba, hotel Kruna, Arandjelovac",
+    "pk": 654,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1501450295613,
+    "end": 1501450295613,
+    "contactDate": 1498944695634,
+    "title": "Svadba, Odmor na Drini, Bajina Basta",
+    "confirmed": true,
+    "pk": 655,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1506848616616,
+    "end": 1506848616616,
+    "contactDate": 1500195816635,
+    "title": "Marina i Aleksandar, svadba, Ivolaz, Uzice",
+    "pk": 656,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1505996783234,
+    "end": 1505996783234,
+    "contactDate": 1500639983240,
+    "confirmed": true,
+    "title": "Prvi rodjendan - Ana, Uzice, sala Roja",
+    "pk": 657,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1509661737349,
+    "end": 1509661737349,
+    "contactDate": 1500845337355,
+    "title": "Uzice, hotel Zlatibor, punoletstvo",
+    "pk": 658,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1508010261670,
+    "end": 1508010261670,
+    "contactDate": 1502135061676,
+    "title": "Marta i Filip, svadba, hotel Jezero, Nova Varos",
+    "pk": 661,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1506118874462,
+    "end": 1506118874462,
+    "contactDate": 1502230874470,
+    "confirmed": true,
+    "title": "Milica i Aleksandar, svadba, restoran Ognjiste, Nova Varos",
+    "pk": 662,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1526744754495,
+    "end": 1526744754495,
+    "contactDate": 1502898354501,
+    "confirmed": true,
+    "title": "MIlica i Marko, svadba, Valjevo, restoran Zivojinovic",
+    "pk": 663,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1512818242907,
+    "end": 1512818242907,
+    "contactDate": 1504001842912,
+    "confirmed": true,
+    "title": "Ivanjica, Prezident, Dusanovo punoletstvo",
+    "pk": 664,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1495829441198,
+    "end": 1495829441198,
+    "contactDate": 1504642241205,
+    "title": "Rezervacija",
+    "pk": 665,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1535228697431,
+    "end": 1535228697431,
+    "contactDate": 1504643097448,
+    "title": "Sanja i Darko, svadba, Talija, Bajina Basta",
+    "pk": 667,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1529173481080,
+    "end": 1529173481080,
+    "contactDate": 1505154281100,
+    "title": "Milica i Dusan, restoran Marina, Futog,svadba",
+    "pk": 668,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1511116172665,
+    "end": 1511116172665,
+    "contactDate": 1505237372674,
+    "title": "Uzice, sala kod Bacete, rodjendan",
+    "confirmed": true,
+    "pk": 669,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1511029946985,
+    "end": 1511029946985,
+    "contactDate": 1505237546990,
+    "title": "Tijana i Aleksandar, svadba, sala Mladost, Cajetina",
+    "pk": 670,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1507460880689,
+    "end": 1507460880689,
+    "contactDate": 1505646480709,
+    "confirmed": true,
+    "title": "Prijepolje, private party, Zarko Popvic",
+    "pk": 672,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1511606191475,
+    "end": 1511606191475,
+    "contactDate": 1505900191480,
+    "confirmed": true,
+    "title": "Mirjana i Srdjan, svadba, Muzicki klub, Pozega",
+    "pk": 673,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1517614689787,
+    "end": 1517614689787,
+    "contactDate": 1506033489804,
+    "title": "Ivanovo punoletstvo, Bajina Basta, sala Tomex",
+    "confirmed": true,
+    "pk": 674,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1527363680209,
+    "end": 1527363680209,
+    "contactDate": 1506109280210,
+    "confirmed": true,
+    "title": "Katarina i Nemanja, sala Mladost, Cajetina",
+    "pk": 675,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1515357866011,
+    "end": 1515357866011,
+    "contactDate": 1506109466016,
+    "title": "Prvi rodjendan, Mlinarev san, Arilje",
+    "pk": 676,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1511658652223,
+    "end": 1511658652223,
+    "contactDate": 1508026252243,
+    "title": "Bojana i Petar, svadba, Mladost, Cajetina",
+    "pk": 678,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1527426069037,
+    "end": 1527426069037,
+    "contactDate": 1508158869043,
+    "title": "Tanja i Marinko, svadba, restoran Simeun, Arandjelovac",
+    "confirmed": true,
+    "pk": 679,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1524872638267,
+    "end": 1524872638267,
+    "contactDate": 1508888638287,
+    "title": "Milena i Nebojsa, svadba, Beograd, sala kod Momcila",
+    "pk": 681,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1524332467564,
+    "end": 1524332467564,
+    "contactDate": 1509302467571,
+    "title": "Marijana i Milos, svadba, Prezident, Ivanjica",
+    "pk": 683,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1535824726039,
+    "end": 1535824726039,
+    "contactDate": 1509735526045,
+    "title": "Katarina i Ranko, svadba, Uzice, sala Roja",
+    "pk": 684,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1514732014268,
+    "end": 1514732014268,
+    "contactDate": 1509807214273,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hotel Zlatiborska noc",
+    "pk": 685,
+    "explanation": null
+  },
+  {
+    "start": 1514818661776,
+    "end": 1514818661776,
+    "contactDate": 1509807461781,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hotel Zlatiborska noc",
+    "pk": 686,
+    "explanation": null
+  },
+  {
+    "start": 1510326193286,
+    "end": 1510326193286,
+    "contactDate": 1509807793292,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Zarko Popovic i Enter bend, Nova Varos, klub",
+    "pk": 687,
+    "explanation": null
+  },
+  {
+    "start": 1537738295365,
+    "end": 1537738295365,
+    "contactDate": 1510612295371,
+    "confirmed": true,
+    "title": "Marina i Marko, svadba, Cacak, sala Radovanje",
+    "pk": 688,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1510698943456,
+    "end": 1510698943456,
+    "contactDate": 1510612543461,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Proslava, hotel Zlatarski biseri, Slava medicinskih sestara",
+    "pk": 689,
+    "explanation": null
+  },
+  {
+    "start": 1513329688373,
+    "end": 1513502488373,
+    "contactDate": 1510737688373,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hotel Zlatiborska noc, proslave",
+    "pk": 690,
+    "explanation": null
+  },
+  {
+    "start": 1513934815492,
+    "end": 1514107615492,
+    "contactDate": 1510738015499,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hote Zlatiborska noc, proslave",
+    "pk": 691,
+    "explanation": null
+  },
+  {
+    "start": 1514539841388,
+    "end": 1514626241388,
+    "contactDate": 1510738241394,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hotel Zlatiborka noc, proslave",
+    "pk": 692,
+    "explanation": null
+  },
+  {
+    "start": 1525543207536,
+    "end": 1525543207536,
+    "contactDate": 1510945207542,
+    "title": "Nada i Marko, svadba, Grand sala, Pozega",
+    "pk": 693,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1536430344742,
+    "end": 1536430344742,
+    "contactDate": 1511032344746,
+    "title": "Vanja i Milos, svadba, Arilje, sala Decani",
+    "pk": 694,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1511815695054,
+    "end": 1511815695054,
+    "contactDate": 1511470095074,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Zlatibor, Grand Irish pub, restoran",
+    "pk": 695,
+    "explanation": null
+  },
+  {
+    "start": 1538299552703,
+    "end": 1538299552703,
+    "contactDate": 1511778352709,
+    "title": "Jelena i Marko, svadba, Prezident, Ivanjica",
+    "pk": 696,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1537023768345,
+    "end": 1537023768345,
+    "contactDate": 1511971368351,
+    "title": "Marija i Milos, svadba, Nasa bajka, Kosjeric",
+    "pk": 697,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1523662112796,
+    "end": 1523662112796,
+    "contactDate": 1512174512802,
+    "title": "Ana i Aleksandar, svadba, Priboj, Fapov restoran",
+    "pk": 698,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1537569654100,
+    "end": 1537569654100,
+    "contactDate": 1513467654105,
+    "confirmed": true,
+    "title": "Slavica i Predrag, svadba, Hedonija, Uzice",
+    "pk": 699,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1515807462509,
+    "end": 1515807462509,
+    "contactDate": 1513561062515,
+    "confirmed": true,
+    "title": "Andrijin prvi rodjendan, Prijepolje, restoran Lovac",
+    "pk": 700,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1520646040177,
+    "end": 1520646040177,
+    "contactDate": 1513561240197,
+    "title": "Porodica Djuricic, punoletstvo, Uzice, Top  Hil",
+    "pk": 701,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1515418452326,
+    "end": 1515418452326,
+    "contactDate": 1513949652331,
+    "title": "Punoletstvo, sala MIlenijum, Lucani",
+    "pk": 702,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1531576640753,
+    "end": 1531576640753,
+    "contactDate": 1514041040773,
+    "confirmed": true,
+    "title": "Ljilja i Nenad, svadba, Hedonija, Uzice",
+    "pk": 703,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1524968996592,
+    "end": 1524968996592,
+    "contactDate": 1514086196598,
+    "title": "Mirjana i Mladen, svadba, hotel Jezero, Nova Varos",
+    "pk": 704,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1532792492635,
+    "end": 1532792492635,
+    "contactDate": 1514220092642,
+    "title": "Jelena i Bojan, svadba, sala Rubin, Pozega",
+    "pk": 705,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1526244396343,
+    "end": 1526244396343,
+    "contactDate": 1514670396364,
+    "title": "Aleksandra i Sinisa, svadba, hotel Jezero, Nova Varos",
+    "pk": 706,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1524396216344,
+    "end": 1524396216344,
+    "contactDate": 1514895816350,
+    "title": "Bojana i Darko, svadba, sala Rubin, Pozega",
+    "pk": 707,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1518864980319,
+    "end": 1518864980319,
+    "contactDate": 1515408980325,
+    "confirmed": true,
+    "title": "Dusica i Djordje, svadba, Beograd, Grand nera",
+    "pk": 708,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1527853671304,
+    "end": 1527853671304,
+    "contactDate": 1515934071310,
+    "title": "Mateja, punoletstvo, Arilje, sala Kristal",
+    "pk": 709,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1535721695840,
+    "end": 1535721695840,
+    "contactDate": 1516198895859,
+    "confirmed": true,
+    "title": "Miodrag, punoletstvo, hotel Park, Ivanjica",
+    "pk": 710,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1521897866339,
+    "end": 1521897866339,
+    "contactDate": 1516281866360,
+    "title": "Ana i Slobodan, svadba, hotel Park, Prijepolje",
+    "pk": 711,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1532134939332,
+    "end": 1532134939332,
+    "contactDate": 1516413739332,
+    "title": "Violeta i Lazar, svadba, Prezident, Ivanjica",
+    "pk": 712,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1523151446326,
+    "end": 1523151446326,
+    "contactDate": 1516415846344,
+    "title": "Svadba, hotel Jezero, Nova Varos",
+    "pk": 713,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1538221423838,
+    "end": 1538221423838,
+    "contactDate": 1516711423844,
+    "title": "Rodjendan, Kosjeric, hotel Olimpik",
+    "pk": 714,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1533401946816,
+    "end": 1533401946816,
+    "contactDate": 1517162346821,
+    "confirmed": true,
+    "title": "Andjela i Dejan, svadba, sala Kraljica, Gorjani",
+    "pk": 715,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1518360707684,
+    "end": 1518360707684,
+    "contactDate": 1517496707704,
+    "confirmed": true,
+    "title": "Jovanin prvi rodjendan, Hedonija, Uzice",
+    "pk": 716,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1523817060553,
+    "end": 1523817060553,
+    "contactDate": 1517859060572,
+    "title": "Jadranka i Tomo, svadba, hotel Lucani, Lucani",
+    "pk": 718,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1526637829330,
+    "end": 1526637829330,
+    "contactDate": 1518519829337,
+    "title": "Tijana i Stefan, svadba,  hotel Park, Prijepolje",
+    "pk": 719,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1526846936108,
+    "end": 1526846936108,
+    "contactDate": 1519247336115,
+    "title": "Biljana i Zarko, svadba, Ivolaz, Uzice",
+    "pk": 720,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1537121116522,
+    "end": 1537121116522,
+    "contactDate": 1520103916535,
+    "title": "Milica i Ivan, svadba, Muzicki klub, Pozega",
+    "pk": 721,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1530369057755,
+    "end": 1530369057755,
+    "contactDate": 1519572657763,
+    "title": "Porodica Rakanovic, punoletstvo, Hedonija, Uzice",
+    "pk": 722,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1525189522746,
+    "end": 1525189522746,
+    "contactDate": 1520009122752,
+    "confirmed": true,
+    "title": "Aleksandra i Aleksandar, svadba, restoran Basta, Cacak",
+    "pk": 723,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1535880558530,
+    "end": 1535880558530,
+    "contactDate": 1520072958552,
+    "confirmed": true,
+    "title": "Andrijanino punoletstvo, Muzicki klub, Pozega",
+    "pk": 724,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1528568621040,
+    "end": 1528568621040,
+    "contactDate": 1520277821059,
+    "confirmed": true,
+    "title": "Treci susreti veterana, proslava, Ivolaz ,Uzice",
+    "pk": 725,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1540046202956,
+    "end": 1540046202956,
+    "contactDate": 1521128202961,
+    "title": "Verica i Veljko, svadba, restoran Fap, Priboj",
+    "pk": 726,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1540145292826,
+    "end": 1540145292826,
+    "contactDate": 1521313692845,
+    "confirmed": true,
+    "title": "Bojana i Milos, svadba, Ivolaz, Uzice",
+    "pk": 727,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1522495322665,
+    "end": 1522495322665,
+    "contactDate": 1521462122671,
+    "title": "Proslava, hotel Zlatiborska noc, Bela Zemlja",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 728,
+    "explanation": null
+  },
+  {
+    "start": 1526122129035,
+    "end": 1526122129035,
+    "contactDate": 1521546529041,
+    "title": "Brankica i Slavko, svadba, Bajina Basta, sala Tomex",
+    "pk": 729,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1536445429285,
+    "end": 1536445429285,
+    "contactDate": 1522275829304,
+    "title": "Milica i Aco, svadba, hotel Zlatibor, Uzice",
+    "pk": 730,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1523137552868,
+    "end": 1523137552868,
+    "contactDate": 1522359952876,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Vertigo, Priboj",
+    "pk": 731,
+    "explanation": null
+  },
+  {
+    "start": 1534095732731,
+    "end": 1534095732731,
+    "contactDate": 1523641332737,
+    "title": "Jelena i Marko, vencanje i krstenje, Markovi konaci, Ljubovija",
+    "pk": 732,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1535316735362,
+    "end": 1535316735362,
+    "contactDate": 1525812735368,
+    "confirmed": true,
+    "title": "Milica i Vladan, svadba, hotel Park, Prijepolje",
+    "pk": 733,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1532862011726,
+    "end": 1532862011726,
+    "contactDate": 1526036411745,
+    "title": "Bogdana i Milos, svadba, hotel Orasac, Beograd",
+    "pk": 734,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1527762552957,
+    "end": 1527762552957,
+    "contactDate": 1526293752977,
+    "confirmed": true,
+    "title": "Matura, hotel Park, Ivanjica",
+    "pk": 735,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1528196748341,
+    "end": 1528196748341,
+    "contactDate": 1526468748343,
+    "confirmed": true,
+    "title": "Proslava maturske veceri, Muzicki klub, Pozega",
+    "pk": 736,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1529579304684,
+    "end": 1529579304684,
+    "contactDate": 1526468904684,
+    "confirmed": true,
+    "title": "Proslava maturske veceri, Muzicki klub, Pozega",
+    "pk": 737,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1539524762409,
+    "end": 1539524762409,
+    "contactDate": 1526478362415,
+    "title": "Bojana i Ivan, svadba, sala Radost, Arilje",
+    "pk": 738,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1558158907446,
+    "end": 1558158907446,
+    "contactDate": 1528091707452,
+    "confirmed": true,
+    "title": "Ivana i Nemanja, svadba,  Hotel Kruna Elegant, Arandjelovac, ",
+    "pk": 740,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1556959262887,
+    "end": 1556959262887,
+    "contactDate": 1528101662894,
+    "title": "Marija i Nikola , svadba, Cacak, Restoran Dan Noc",
+    "pk": 741,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1544282017900,
+    "end": 1544282017900,
+    "contactDate": 1528812817905,
+    "confirmed": true,
+    "title": "Dimitrijev prvi rodjendan, restoran Gasper, Kraljevo",
+    "pk": 743,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1533464085852,
+    "end": 1533464085852,
+    "contactDate": 1529489685860,
+    "title": "Slavica i Dragomir, svadba, Muzicki klub, Pozega",
+    "pk": 744,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1538940739499,
+    "end": 1538940739499,
+    "contactDate": 1529523139506,
+    "confirmed": true,
+    "title": "Marija i Vladan, svadba, restoran Fap, Priboj",
+    "pk": 745,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1529782464375,
+    "end": 1529782464375,
+    "contactDate": 1529523264380,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Vertigo, Priboj",
+    "pk": 746,
+    "explanation": null
+  },
+  {
+    "start": 1532727098091,
+    "end": 1532727098091,
+    "contactDate": 1529703098110,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Klub Verona, Nova Varos, Zlatarfest",
+    "pk": 747,
+    "explanation": null
+  },
+  {
+    "start": 1540641411328,
+    "end": 1540641411328,
+    "contactDate": 1530273411335,
+    "title": "Andrijana i Bojan, svadba, Pozega, Muzicki klub",
+    "pk": 748,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1541326025902,
+    "end": 1541326025902,
+    "contactDate": 1531559225908,
+    "confirmed": true,
+    "title": "Prvi rodjendan, sala Kraljica, porodica Lijeskic",
+    "pk": 749,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1539452564481,
+    "end": 1539452564481,
+    "contactDate": 1531762964500,
+    "title": "Marijana i Aleksandar, svadba,Ivolaz, Uzice",
+    "pk": 750,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1557580910285,
+    "end": 1557580910285,
+    "contactDate": 1532352110313,
+    "title": "Marina i Aleksandar, svadba, Ivolaz, Uzice",
+    "pk": 751,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1542502479127,
+    "end": 1542502479127,
+    "contactDate": 1532390079133,
+    "title": "Tanja i Marko, svadba, hotel Vrbak, Novi Pazar",
+    "pk": 752,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1567209429519,
+    "end": 1567209429519,
+    "contactDate": 1532390229540,
+    "title": "Jovana i Milan, svadba, Hedonija, Uzice",
+    "pk": 753,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1539269190609,
+    "end": 1539269190609,
+    "contactDate": 1532702790618,
+    "title": "Slavica i Nenad, svadba, Mladost, Cajetina",
+    "confirmed": true,
+    "pk": 754,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1538856177902,
+    "end": 1538856177902,
+    "contactDate": 1533153777907,
+    "title": "Ivana i Zeljko, svadba, hotel Jezero, Nova Varos",
+    "pk": 755,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1564842406184,
+    "end": 1564842406184,
+    "contactDate": 1533565606190,
+    "title": "Angelina i Jevrem, svadba, restoran Lira, Bajina Basta",
+    "pk": 756,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1540682109669,
+    "end": 1540682109669,
+    "contactDate": 1534374909677,
+    "confirmed": true,
+    "title": "Jelena i Zarko, svadba, hotel Jezero, Nova Varos",
+    "pk": 757,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1558790035579,
+    "end": 1558790035579,
+    "contactDate": 1534511635586,
+    "title": "Emilija i Borko, svadba, Ivolaz, Uzice",
+    "pk": 758,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1547343003631,
+    "end": 1547343003631,
+    "contactDate": 1534897803637,
+    "title": "Biljana i Zoran, svadba, restoran Fap, Priboj",
+    "pk": 759,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1552095093702,
+    "end": 1552095093702,
+    "contactDate": 1534897893720,
+    "title": "Tajna i Stefan, svadba, restoran Fap, Priboj",
+    "pk": 760,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1561200419118,
+    "end": 1561200419118,
+    "contactDate": 1535453219118,
+    "title": "Una i Milivoje, svadbeno veselje, Stadion, Beograd",
+    "pk": 761,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1536260714756,
+    "end": 1536260714756,
+    "contactDate": 1535483114760,
+    "title": "Irish pub, Zlatibor",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 762,
+    "explanation": null
+  },
+  {
+    "start": 1559390704958,
+    "end": 1559390704958,
+    "contactDate": 1536149104976,
+    "title": "Milica i Milan, svadba, Pozega",
+    "pk": 763,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1543149212684,
+    "end": 1543149212684,
+    "contactDate": 1536233612687,
+    "confirmed": true,
+    "title": "Rodjendan, restoran Krisltal, Arilje",
+    "pk": 764,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1536924981207,
+    "end": 1536924981207,
+    "contactDate": 1536233781222,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hotel Palisad, Zlatibor",
+    "pk": 765,
+    "explanation": null
+  },
+  {
+    "start": 1557664031731,
+    "end": 1557664031731,
+    "contactDate": 1536323231731,
+    "confirmed": true,
+    "title": "Svadba, Verica i Ljubomir, Ivolaz, Uzice",
+    "pk": 766,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1539977241498,
+    "end": 1539977241498,
+    "contactDate": 1536348441502,
+    "title": "Sanja i Marko, svadba, restoran Fap, Priboj",
+    "confirmed": true,
+    "pk": 767,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1538692665013,
+    "end": 1538692665013,
+    "contactDate": 1536359865013,
+    "title": "Irish pub, Zlatibor",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 768,
+    "explanation": null
+  },
+  {
+    "start": 1541202044325,
+    "end": 1541202044325,
+    "contactDate": 1536360044325,
+    "title": "Irish pub,Zlatibor",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 769,
+    "explanation": null
+  },
+  {
+    "start": 1541806975643,
+    "end": 1541806975643,
+    "contactDate": 1536360175643,
+    "title": "Irish pub, Zlatibor",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 770,
+    "explanation": null
+  },
+  {
+    "start": 1543016682495,
+    "end": 1543016682495,
+    "contactDate": 1536360282495,
+    "title": "Irish pub, Zlatibor",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 771,
+    "explanation": null
+  },
+  {
+    "start": 1537549084255,
+    "end": 1537549084255,
+    "contactDate": 1536598684273,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Proslava, hotel Palisad, Zlatibor",
+    "pk": 772,
+    "explanation": null
+  },
+  {
+    "start": 1549103021921,
+    "end": 1549103021921,
+    "contactDate": 1536657821943,
+    "title": "Punoletstvo, Miroslav.  sala Radost, Arilje",
+    "pk": 773,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1542465532818,
+    "end": 1542465532818,
+    "contactDate": 1536759532835,
+    "confirmed": true,
+    "title": "Ana i Marko, svadba, restoran Kraljica, Gorjani",
+    "pk": 775,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1540572421452,
+    "end": 1540572421452,
+    "contactDate": 1536770821458,
+    "title": "Milica i Nemanja, svadba, hotel Park, Prijepolje",
+    "pk": 776,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1542308866739,
+    "end": 1542308866739,
+    "contactDate": 1537207666747,
+    "confirmed": true,
+    "title": "Ognjenov prvi rodjendan, sala Grand, Pozega",
+    "pk": 777,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1537812633768,
+    "end": 1537812633768,
+    "contactDate": 1537207833771,
+    "confirmed": true,
+    "title": "Cacak, sala Radovanje, repriza svadbenog veselja",
+    "pk": 778,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1546114174537,
+    "end": 1546114174537,
+    "contactDate": 1537902574544,
+    "title": "Lidijin prvi rodjendan, Muzicki klub, Pozega",
+    "pk": 779,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1560020201990,
+    "end": 1560020201990,
+    "contactDate": 1538852201997,
+    "title": "Sanja i Radisav, svadba, Rubin, Pozega",
+    "pk": 781,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1562973434209,
+    "end": 1562973434209,
+    "contactDate": 1539040634227,
+    "title": "Marija i Ivan, svadba, restoran Kraljica, Uzice",
+    "pk": 782,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1560583874008,
+    "end": 1560583874008,
+    "contactDate": 1539070274026,
+    "confirmed": true,
+    "title": "Nevena i Milan, svadba, Muzicki klub, Pozega",
+    "pk": 783,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1539597782585,
+    "end": 1539597782585,
+    "contactDate": 1539079382603,
+    "confirmed": true,
+    "frontpage": false,
+    "title": "Svecana vecera, hotel Palisad, Zlatibor",
+    "pk": 784,
+    "explanation": null
+  },
+  {
+    "start": 1543664812905,
+    "end": 1543664812905,
+    "contactDate": 1539254812925,
+    "title": "Punoletsto, David, Dan i noc, Cacak",
+    "pk": 785,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1558230201321,
+    "end": 1558230201321,
+    "contactDate": 1540086201321,
+    "title": "Bojana i Goran, svadba, Ivolaz, Uzice",
+    "pk": 786,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1569635094982,
+    "end": 1569635094982,
+    "contactDate": 1540086294982,
+    "title": "Ivana i Nikola, svadba, Svecana sala Srbija, Lipovacke sume",
+    "pk": 787,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1543009484730,
+    "end": 1543009484730,
+    "contactDate": 1540241084736,
+    "title": "Svadba, Prijepolje",
+    "confirmed": true,
+    "pk": 788,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1546209570170,
+    "end": 1546727970170,
+    "contactDate": 1540330770170,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Hotel Bistrica, Jahorina",
+    "pk": 789,
+    "explanation": null
+  },
+  {
+    "start": 1567892889777,
+    "end": 1567892889777,
+    "contactDate": 1540331289780,
+    "title": "Ana i Milos, svadba, sala kod Rasa, Uzice",
+    "pk": 790,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1541609079476,
+    "end": 1541609079476,
+    "contactDate": 1540482279476,
+    "confirmed": true,
+    "frontpage": false,
+    "title": "Hotel Palisad, Zlatibor, proslava",
+    "pk": 792,
+    "explanation": null
+  },
+  {
+    "start": 1541160867386,
+    "end": 1541160867386,
+    "contactDate": 1540638867405,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Irish Pab, Zlatibor",
+    "pk": 793,
+    "explanation": null
+  },
+  {
+    "start": 1564248093367,
+    "end": 1564248093367,
+    "contactDate": 1540837293374,
+    "title": "Teodora, punoletstvo, restoran Jovanovic, Mladenovac",
+    "pk": 794,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1541904968920,
+    "end": 1541904968920,
+    "contactDate": 1541213768926,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Irish Pab, Zlatibor",
+    "pk": 796,
+    "explanation": null
+  },
+  {
+    "start": 1565441226916,
+    "end": 1565441226916,
+    "contactDate": 1541252826923,
+    "confirmed": true,
+    "title": "Irena i Mladen, svadba, Zvornik",
+    "pk": 797,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1545433756523,
+    "end": 1545433756523,
+    "contactDate": 1541372956529,
+    "confirmed": true,
+    "title": "Rezervisan termin",
+    "pk": 798,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1568451186264,
+    "end": 1568451186264,
+    "contactDate": 1541670786264,
+    "title": "Milica i Dejan, svadba, Nasa bajka, Kosjeric",
+    "pk": 799,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1550327441687,
+    "end": 1550327441687,
+    "contactDate": 1542205841708,
+    "title": "Marijana i MIlos, svadba, sala Tomex, Bajina Basta",
+    "pk": 801,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1544836112473,
+    "end": 1544836112473,
+    "contactDate": 1542330512479,
+    "confirmed": true,
+    "title": "Hotel Park, Ivanjica, rodjendan",
+    "pk": 802,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1570292819565,
+    "end": 1570292819565,
+    "contactDate": 1542475619570,
+    "title": "Rezervacija",
+    "pk": 803,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1543769889475,
+    "end": 1543769889475,
+    "contactDate": 1542646689481,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Irish Pub, Zlatibor",
+    "pk": 804,
+    "explanation": null
+  },
+  {
+    "start": 1542662935504,
+    "end": 1542662935522,
+    "contactDate": 1542662935523,
+    "title": "Rezervacija",
+    "pk": 805,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1542663061041,
+    "end": 1542663061046,
+    "contactDate": 1542663061046,
+    "confirmed": true,
+    "title": "Rezervisan termin",
+    "pk": 806,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1551635674993,
+    "end": 1551635674993,
+    "contactDate": 1543254874999,
+    "title": "Vesna i Marko, svadba, Grand 1, Pozega",
+    "pk": 809,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1543341557461,
+    "end": 1543341557461,
+    "contactDate": 1543255157464,
+    "confirmed": true,
+    "frontpage": false,
+    "title": "Zlatibor, hotel Palisad, svecana vecera",
+    "pk": 810,
+    "explanation": null
+  },
+  {
+    "start": 1545430548056,
+    "end": 1545430548056,
+    "contactDate": 1543616148061,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Irish Pub, Zlatibor",
+    "pk": 812,
+    "explanation": null
+  },
+  {
+    "start": 1554046757261,
+    "end": 1554046757261,
+    "contactDate": 1543855157278,
+    "confirmed": true,
+    "title": "Draganovo punoletstvo, Hedonija, Uzice",
+    "pk": 813,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1543855317081,
+    "end": 1543855317086,
+    "contactDate": 1543855317088,
+    "title": "Irish Pub, Zlatibor",
+    "confirmed": true,
+    "frontpage": true,
+    "pk": 814,
+    "explanation": null
+  },
+  {
+    "start": 1544201013048,
+    "end": 1544201013048,
+    "contactDate": 1543855413069,
+    "confirmed": true,
+    "frontpage": true,
+    "title": "Irish Pub, Zlatibor",
+    "pk": 815,
+    "explanation": null
+  },
+  {
+    "start": 1546026482429,
+    "end": 1546026482429,
+    "contactDate": 1543866482446,
+    "confirmed": true,
+    "title": "Proslava, Prezident, Ivanjica",
+    "pk": 816,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1561829413786,
+    "end": 1561829413786,
+    "contactDate": 1543948213793,
+    "confirmed": true,
+    "title": "Kostin prvi rodjendan, sala Decani, Arilje",
+    "pk": 817,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1571003553190,
+    "end": 1571003553190,
+    "contactDate": 1544050353196,
+    "title": "Aleksandra i Milos, svadba, hotel Kruna, Arandjelovac",
+    "pk": 818,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1567374833053,
+    "end": 1567374833053,
+    "contactDate": 1544050433057,
+    "title": "Maja i Goran, svadba,Ivanjica",
+    "pk": 819,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1548700630432,
+    "end": 1548873430432,
+    "contactDate": 1544380630440,
+    "confirmed": true,
+    "title": "Hotel Palisad, Zlatibor",
+    "pk": 820,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1549219952947,
+    "end": 1549219952947,
+    "contactDate": 1544381552953,
+    "title": "Jasmina i Tomislav, svadba, Nasa bajka, Kosjeric",
+    "pk": 821,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1572092964308,
+    "end": 1572092964308,
+    "contactDate": 1544707764314,
+    "title": "Rezervacija, svadba, Kosjeric",
+    "pk": 822,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1559321565332,
+    "end": 1559321565332,
+    "contactDate": 1545933165340,
+    "title": "Punoletstvo, Arilje",
+    "pk": 823,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1547904075412,
+    "end": 1547904075412,
+    "contactDate": 1546003275418,
+    "confirmed": true,
+    "title": "Rodjendan, Zlatiborska noc, Uzice",
+    "pk": 824,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1563580189337,
+    "end": 1563580189337,
+    "contactDate": 1546130989359,
+    "title": "Jelena i Dejan, svadba, Nasa bajka, Kosjeric",
+    "pk": 825,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1550795565488,
+    "end": 1550795565488,
+    "contactDate": 1546907565495,
+    "title": "Lenkin prvi rodjendan, Prezident, Ivanjica",
+    "pk": 826,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1569070705955,
+    "end": 1569070705955,
+    "contactDate": 1547042305961,
+    "title": "Marija i Vladimir, svadba, sala Grand, Pozega",
+    "pk": 827,
+    "confirmed": true,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1552222614665,
+    "end": 1552309014665,
+    "contactDate": 1547384214684,
+    "title": "Rezervacija",
+    "pk": 828,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1576346220758,
+    "end": 1576346220758,
+    "contactDate": 1547488620764,
+    "confirmed": true,
+    "title": "Bojanino punoletstvo, Uzice",
+    "pk": 829,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1559467245644,
+    "end": 1559467245644,
+    "contactDate": 1547720445664,
+    "title": "Rezervisan termin",
+    "pk": 830,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1560113696481,
+    "end": 1560113696481,
+    "contactDate": 1548021296488,
+    "title": "Marija i Obren, svadba, restoran Fap, Priboj",
+    "pk": 831,
+    "confirmed": null,
+    "frontpage": null,
+    "explanation": null
+  },
+  {
+    "start": 1559823709636,
+    "end": 1559823709636,
+    "contactDate": 1548336109643,
+    "confirmed": true,
+    "title": "Svadba, Svecana sala Susica, Cajetina",
+    "pk": 832,
+    "frontpage": null,
+    "explanation": null
+  }
+]
