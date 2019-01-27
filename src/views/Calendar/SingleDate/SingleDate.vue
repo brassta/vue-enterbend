@@ -1,14 +1,16 @@
 <template>
-    <div v-if="hasProps" :class="`single-date ${date.eventObject.confirmed?'confirmed':''}`">
-        <h4>{{date.eventObject.title}}</h4>
-        <div class="date from">{{formatDate(date.eventObject.start)}}</div>
-        <div class="date from">{{formatDate(date.eventObject.end)}}</div>
-        <Explanation v-if="date.eventObject.explanation" :explanation="{date}"/>
+    <div v-if="hasProps" :class="`single-date ${event.confirmed?'confirmed':''}`">
+        <h4>{{event.title}}</h4>
+        <div class="date from">{{formatDate(event.start)}}</div>
+        <div class="date from">{{formatDate(event.end)}}</div>
+        <Explanation v-if="event.explanation" :explanation="{event}"/>
         <font-awesome-icon v-if="isPublicEvent" icon="user"/>
     </div>
+    <div v-else-if="isBlankDay" class="single-date blank"></div>
     <div v-else class="single-date">
         <div class="free-to-call">Orkestar je slobodan <a href="javascript:void(0)">Rezervisi</a></div>
     </div>
+    
 </template>
 
 <script>
@@ -17,7 +19,7 @@
     export default {
         name      : "SingleDate",
         components: { Explanation },
-        props     : ['date'],
+        props     : ['date','blankDay','event'],
         methods   : {
             formatDate: function(plainDate) {
                 const currentDate = new Date(plainDate);
@@ -25,18 +27,27 @@
             }
         },
         computed  : {
-            hasProps      : function() {
-                if(this.date){
+            hasProps() {
+                if(this.event.start){
                     return true;
                 }
                 return false;
             },
-            isPublicEvent: function() {
-                if(this.date.eventObject.frontpage){
+            isPublicEvent() {
+                if(this.event.frontpage){
                     return true
                 }
                 return false
+            },
+            isBlankDay(){
+                if(this.blankDay){
+                    return true;
+                }
+                return false;
             }
+        },
+        created:function(){
+            console.log('vidimo li se', this.event);
         }
 
     }

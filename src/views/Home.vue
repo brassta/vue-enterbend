@@ -1,10 +1,10 @@
 <template>
     <div class="home">
-        <Calendar v-if="isEventsLoaded" :events="{events}"/>
-        <SingleDate></SingleDate>
-        <ul v-if="isEventsLoaded">
-            <li v-for="eventObject in events" v-show="events!==null"><SingleDate :date="{eventObject}"/></li>
-        </ul>
+        <Calendar v-if="isEventsLoaded" :eventsData="{events}"/>
+        <!--<SingleDate></SingleDate>-->
+        <!--<ul v-if="isEventsLoaded">-->
+            <!--<li v-for="eventObject in events" v-show="events!==null"><SingleDate :date="{eventObject}"/></li>-->
+        <!--</ul>-->
 
     </div>
 </template>

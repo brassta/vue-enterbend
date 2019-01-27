@@ -20,7 +20,7 @@
     export default {
         name      : "Calendar",
         components: { Month },
-        props     : ['events'],
+        props     : ['eventsData'],
         data() {
             return {
                 months     : [],
@@ -38,29 +38,43 @@
                     this.activeIndex--;
                 }
 
+            },
+            getMonthEvents(firstDayOfMonth){
+                const firstDayOfMonthTime = new Date(firstDayOfMonth.getTime());
+                const lastDayOfMonthTime = new Date(firstDayOfMonthTime.getFullYear(), firstDayOfMonthTime.getMonth()+1,0);
+                // console.log(firstDayOfMonthTime.getTime(), lastDayOfMonthTime.getTime());
+                // console.log(this.eventsData.events);
+                const monthlyEvents = [];
+                for (event of this.eventsData.events){
+                    if(event.start>firstDayOfMonthTime.getTime() && event.start<lastDayOfMonthTime.getTime()){
+                        monthlyEvents.push(event);
+                    }
+                }
+                return monthlyEvents;
             }
         },
         created() {
             let topDate = Number.MIN_SAFE_INTEGER;
             let lastDate = Number.MAX_SAFE_INTEGER;
             let monthCounter = 0;
-            for(let date of this.events.events) {
+            for(let date of this.eventsData.events) {
                 if(date.start > topDate){
                     topDate = date.start
                 }
-                if(date.start < lastDate){
-                    lastDate = date.start;
+                if(date.end < lastDate){
+                    lastDate = date.end;
                 }
             }
-            const startYear = new Date(lastDate).getFullYear()
-            const endYear = new Date(topDate).getFullYear()
+            const startYear = new Date(lastDate).getFullYear();
+            const endYear = new Date(topDate).getFullYear();
             for(let i = startYear; i <= endYear; i++) {
                 for(let j = 0; j < 12; j++) {
                     const date = new Date(startYear + i - startYear, j, 1);
                     const month = {
                         monthName : date.toLocaleDateString('en-us', { month: 'long' }),
                         monthIndex: date.getMonth(),
-                        year      : startYear + i - startYear
+                        year      : startYear + i - startYear,
+                        monthEvents:this.getMonthEvents(date)
                     }
                     this.months.push(month);
                     //## is currentMonth and set currentMonth index
@@ -76,7 +90,6 @@
         },
         computed  : {
             isActiveMonth() {
-                console.log(this);
                 return true;
             }
         }
